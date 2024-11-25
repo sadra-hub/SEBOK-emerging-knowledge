@@ -10,14 +10,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
       },
@@ -44,10 +36,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -61,14 +49,6 @@
         "refid": "_18_1_3b70190_1461072592807_927839_93477"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -92,10 +72,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -109,14 +85,6 @@
         "refid": "_18_1_3b70190_1461072592807_927839_93477"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -136,10 +104,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -149,24 +113,12 @@
     "documentation": "    (1) The organized collection of activities, relationships and contracts which apply to a system-of-interest during its life. (Pyster 2009, 73)\n\n    (2) The evolution of a system, product, service, project or other human-made entity from conception through retirement. (ISO/IEC/IEEE 2015)\n\n    (3) Development (life) cycles start with user needs and end with system decommissioning and disposal. Project cycles contain three aspects: business, budget, and technical. (Mooz, Forsberg, Cotterman 2003, 259)\n\n[3, SEBoK Glossary]\nSpan of time from mits conception to disposal and is broken ",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       },
       {
         "name": "Concept Term Categories and Color Definitions",
         "refid": "_18_1_3b70190_1461172090476_744631_37297"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -175,10 +127,6 @@
     "name": "Natural System",
     "documentation": "An open system whose elements, boundary, and relationships exist independently of human control. (Created for SEBoK) [3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -194,10 +142,6 @@
     "name": "Social System",
     "documentation": "An open system which includes human elements. (Created for SEBoK)  [3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -222,10 +166,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -255,14 +195,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -285,10 +217,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -297,10 +225,6 @@
     "name": "System of Systems",
     "documentation": "    (1) Two or more systems that are separately defined but operate together to perform a common goal. (Checkland 1999) \n\n    (2) an assemblage of components which individually may be regarded as systems, and which possess two additional properties:\n\n        (a) Operational Independence of the Components: If the system-of-systems is disassembled into its component systems the component systems must be able to usefully operate independently. That is, the components fulfill customer-operator purposes on their own. \n\n        (b) Managerial Independence of the Components: The component systems not only can operate independently, they do operate independently. The component systems are separately acquired and integrated but maintain a continuing operational existence independent of the system-of-systems. (Maier 1998, 267-284)\n\n    (3) System\u2010of\u2010systems applies to a system\u2010of\u2010interest whose system elements are themselves systems; typically these entail large scale inter\u2010disciplinary problems with multiple, heterogeneous, distributed systems. (INCOSE 2012)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -332,24 +256,12 @@
     "documentation": "     (1) A system context for which the system-of-interest (SoI) is a product. (Created for SEBoK)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "SEBoK - Environment",
         "refid": "_18_1_3b70190_1452719768376_850485_19512"
       },
       {
         "name": "Environment",
         "refid": "_18_1_3b70190_1461169918766_308065_36584"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -359,24 +271,12 @@
     "documentation": "A system context for which the system-of-interest (SoI) is a Service System\n[Created for Context Model]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "SEBoK - Environment",
         "refid": "_18_1_3b70190_1452719768376_850485_19512"
       },
       {
         "name": "Environment",
         "refid": "_18_1_3b70190_1461169918766_308065_36584"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -386,24 +286,12 @@
     "documentation": "A system context for which the system-of-interest is an enterprise. (Created for SEBoK)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "SEBoK - Environment",
         "refid": "_18_1_3b70190_1452719768376_850485_19512"
       },
       {
         "name": "Environment",
         "refid": "_18_1_3b70190_1461169918766_308065_36584"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -418,14 +306,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -436,10 +316,6 @@
       {
         "name": "Environment",
         "refid": "_18_1_3b70190_1461169918766_308065_36584"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -448,14 +324,6 @@
     "name": "Open System",
     "documentation": "A system which exchanges inputs and outputs with its environment. (von Bertalanffy 1968) [2, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -475,10 +343,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -493,14 +357,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -511,10 +367,6 @@
       {
         "name": "Environment",
         "refid": "_18_1_3b70190_1461169918766_308065_36584"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -523,10 +375,6 @@
     "name": "System Boundary",
     "documentation": "A distinction made by an observer which marks the difference between an entity he takes to be a system and its environment. (Checkland 1999, 312)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -542,10 +390,6 @@
     "name": "Closed System",
     "documentation": "A system which has no interactions with its environment. (von Bertalanffy 1968)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -566,10 +410,6 @@
     "documentation": "A viewpoint is a specification of the conventions and rules for constructing and using a view for the purpose of addressing a set of stakeholder concerns (OMG 2010)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Environment",
         "refid": "_18_1_3b70190_1461169918766_308065_36584"
       }
@@ -580,10 +420,6 @@
     "name": "View",
     "documentation": "A representation of a system from the perspective of a viewpoint. (OMG 2010)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -617,14 +453,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
       },
@@ -643,10 +471,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -660,14 +484,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -683,10 +499,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -712,14 +524,7 @@
         "name": "ACM and SECM Integration",
         "refid": "_18_1_3b70190_1461173895008_821833_51408"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
+
       {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
@@ -739,10 +544,6 @@
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -751,10 +552,6 @@
     "name": "Hardware",
     "documentation": "A component of a system that has geometric constraints. [UML 4SE RFP]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -775,10 +572,6 @@
     "documentation": "All or part of the programs, procedures, rules, and associated documentation of an information processing system. (ISO/IEC 2382-1:1993)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
       },
@@ -797,10 +590,6 @@
     "name": "Human",
     "documentation": "Homo sapiens is the binomial nomenclature for the human species. Homo is the human genus, which also includes Neanderthals and many other extinct species of hominid; H. sapiens is the only surviving species of the genus Homo. [8, Wikipedia, Human]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -821,10 +610,6 @@
     "documentation": "Data  is any sequence of symbols giving meaning by specific acts of interpretation. Digital data is the quantities, characters, or symbols on which operations are performed by a computer, stored and recorded on magnetic, optical, or mechanical recording media, and transmitted in the form of electrical signals.[9, Wikipedia, Data (Computing)]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
       },
@@ -843,10 +628,6 @@
     "name": "Procedure",
     "documentation": "An established or official way of doing something.\nA series of actions conducted in a certain order or manner.\n[Google definition]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -867,10 +648,6 @@
     "documentation": "An installation, contrivance, or other things which facilitates something; a place for doing something:\n    -  A commercial or institutional building, such as a hotel, resort, school, office complex, sports arena, or convention center\n    -  Medical facility\n    -  Post-production facility\n    -  Telecommunications facility\n[9, Wikipedia, Facility]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
       },
@@ -890,10 +667,6 @@
     "documentation": "A hierarchy of elements, related life cycle processes, and personnel used to assign development teams, conduct technical reviews, and to partition out the assigned work and associated resource allocations to each of the tasks necessary to accomplish the objectives of the project. (IEEE 2005) \n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       },
@@ -908,10 +681,6 @@
     "name": "Natural Occuring Entity",
     "documentation": "From definition of System Element \"naturally occurring entities (e.g., water, organisms, minerals)\" [3, SEBoK]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -932,10 +701,6 @@
     "documentation": "    (1) Individual or organization having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations (ISO/IEC/IEEE 2015) \n\n    (2) Individual or organization having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations; N.B. Stakeholders include, but are not limited to end users, end user organizations, supporters, developers, producers, trainers, maintainers, disposers, acquirers, customers, operators, supplier organizations and regulatory bodies. (ISO/IEC June 2010) \n\n    (3) An individual, team, or organization (or classes thereof) with interests in, or concerns relative to, a system. (ISO/IEC 2007)\n\n    (4) A stakeholder in an organization is (by definition) any group or individual who can affect or is affected by the achievement of the organization's objectives. (Freeman 1984)[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "SEBoK - Environment",
         "refid": "_18_1_3b70190_1452719768376_850485_19512"
       },
@@ -950,10 +715,6 @@
     "name": "Sociotechnical System",
     "documentation": "An engineered system which includes a combination of technical and human or natural elements. [3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -970,10 +731,6 @@
     "documentation": "A system of systems that rates high on three dimensions of autonomy, heterogeneity, and dispersion. Each component system chooses of its own accord to participate in the FOS as it sees fit. It is a \u201ccoalition of the willing.\u201d (Krygiel 1999) [3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
       },
@@ -988,10 +745,6 @@
     "name": "Product ",
     "documentation": "     (1) A system considered from the point of view of a physical \u201csystem end product\u201d (ANSI/EIA 2003) made of system elements that may include hardware, software, infrastructure and support services. The people and organizational aspects of the \u201cwhole system\u201d of which the \u201cproduct system\u201d forms a part have to be considered in the design, but are provided by another organization. (INCOSE UK Chapter 2010)\n\n    (2) An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item. (PMI 2008)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -1008,10 +761,6 @@
     "documentation": "A dynamic configuration of resources (people, technology, organizations and shared information) that creates and delivers value between the provider and the customer through services. (IfM and IBM 2008)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
       },
@@ -1026,10 +775,6 @@
     "name": "Enterprise System",
     "documentation": "    (1) one or more organizations sharing a definite mission, goals, and objectives to offer an output such as a product or service. (ISO 15704 2000) \n\n    (2) An organization (or cross organizational entity) supporting a defined business scope and mission that includes interdependent resources (people, organizations and technologies) that must coordinate their functions and share information in support of a common mission (or set of related missions). (CIO Council 1999)\n\n    (3) the term enterprise can be defined in one of two ways. The first is when the entity being considered is tightly bounded and directed by a single executive function. The second is when organizational boundaries are less well defined and where there may be multiple owners in terms of direction of the resources being employed. The common factor is that both entities exist to achieve specified outcomes. (MOD 2004) \n\n    (4) A complex, (adaptive) socio-technical system that comprises interdependent resources of people, processes, information, and technology that must interact with each other and their environment in support of a common mission. (Giachetti 2010) \n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -1046,24 +791,12 @@
     "documentation": "A system context for which the system-of-interest (SoI) is a System of Systems. [Created for Context Model]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "SEBoK - Environment",
         "refid": "_18_1_3b70190_1452719768376_850485_19512"
       },
       {
         "name": "Environment",
         "refid": "_18_1_3b70190_1461169918766_308065_36584"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -1072,10 +805,6 @@
     "name": "Technical Element",
     "documentation": "A system element composed of  machinery and equipment developed from the application of engineering knowledge such as software, hardware and/or electrical engineering. [Created for this Context Model]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -1095,10 +824,6 @@
     "name": "Concept of Operations",
     "documentation": "Verbal and graphic statement, in broad outline, of an organization\u2019s assumptions or intent in regard to an operation or series of operations. (ISO/IEC 2011)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -1122,10 +847,6 @@
     "name": "Enabling System",
     "documentation": "A system that complements a system-of-interest during its life cycle stages, but does not necessarily contribute directly to its function during its operation stage. (INCOSE 2012)\n\nAn enabling system may support a System-of-Interest at any stage of its life. This may include direct maintenance and support systems, test, installation or training systems or project organization enabling systems such as project teams or information resources. \n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
@@ -1202,10 +923,6 @@
     "documentation": "\u201cA Change Control Board (CCB) with representatives from appropriate areas of the project is set up to effectively analyze, control and manage changes being proposed to the project.\u201d \u201cCCBs may be comprised of members from both the customer and the supplier.\u201d \u201dThe board includes representation from project management since the CCB decisions will have an impact on schedule, budget, and resources.\u201d [3, SEBoK, The Influence of Project Structure and Governance on Systems Engineering and Project Management Relationships]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
       }
@@ -1232,10 +949,6 @@
     "documentation": "The total cost of implementation and ownership of a system over its useful life. It includes the cost of development, acquisition, operation, maintenance, support, and, where applicable, disposal. (Mooz, Forsberg, Cotterman 2003, 209)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       }
@@ -1250,10 +963,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1269,10 +979,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1288,10 +995,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1307,10 +1011,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -1335,10 +1036,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -1358,10 +1056,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -1381,10 +1076,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1405,10 +1097,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -1428,10 +1117,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1447,10 +1133,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1466,10 +1149,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1485,10 +1165,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1519,10 +1196,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1538,10 +1212,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1557,10 +1228,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1576,10 +1244,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1595,10 +1260,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1614,10 +1276,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
@@ -1633,10 +1292,6 @@
     "name": "Process",
     "documentation": "    (1) A process is a set of interrelated or interacting activities which transforms inputs into outputs (ISO 9000:2005)\n    (2) A set of activities, methods, practices, and transformations that people use to develop and maintain systems and associated products. (SEI 2007)\n    (3) Process Purpose: high level objective of performing the process and the likely outcomes of effective implementation of the process. NOTE The implementation of the process should provide tangible benefits to the stakeholders. (ISO/IEC 12207:2008) \n    (4) Process Outcome: observable result of the successful achievement of the process purpose (ISO/IEC 12207:2008)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Element",
         "refid": "_18_1_3b70190_1473623259155_777789_40492"
@@ -1674,14 +1329,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       },
@@ -1692,10 +1339,6 @@
       {
         "name": "SE Processes",
         "refid": "_18_1_3b70190_1460414244944_221573_80446"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -1704,10 +1347,6 @@
     "name": "Business",
     "documentation": "A business is an organization engaged in the trade of goods, services, or both to consumers. (Sullivan and Sheffrin 2003)[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -1724,14 +1363,6 @@
         "refid": "_18_1_3b70190_1461072592807_927839_93477"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
       {
         "name": "Roles and Competencies",
         "refid": "_18_1_3b70190_1461103891452_937347_30303"
@@ -1751,10 +1382,6 @@
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -1763,10 +1390,6 @@
     "name": "Enterprise",
     "documentation": "    (1) one or more organizations sharing a definite mission, goals, and objectives to offer an output such as a product or service. (ISO 15704 2000) \n\n    (2) An organization (or cross organizational entity) supporting a defined business scope and mission that includes interdependent resources (people, organizations and technologies) that must coordinate their functions and share information in support of a common mission (or set of related missions). (CIO Council 1999)\n\n    (3) the term enterprise can be defined in one of two ways. The first is when the entity being considered is tightly bounded and directed by a single executive function. The second is when organizational boundaries are less well defined and where there may be multiple owners in terms of direction of the resources being employed. The common factor is that both entities exist to achieve specified outcomes. (MOD 2004) \n\n    (4) A complex, (adaptive) socio-technical system that comprises interdependent resources of people, processes, information, and technology that must interact with each other and their environment in support of a common mission. (Giachetti 2010) \n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -1784,20 +1407,8 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -1806,10 +1417,6 @@
     "name": "Specialty Engineering",
     "documentation": "Specialty Engineering is the collection of those narrow disciplines that are needed to engineer a complete system. (Elowitz, 2006)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -1827,17 +1434,10 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Process Change Request",
         "refid": "_18_1_3b70190_1446739260402_400827_20751"
       },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
+
       {
         "name": "Roles and Competencies",
         "refid": "_18_1_3b70190_1461103891452_937347_30303"
@@ -1853,10 +1453,6 @@
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -1865,10 +1461,6 @@
     "name": "Systems Engineering Management Plan",
     "documentation": "The Systems Engineering Management Plan (SEMP) is the master planning document for the systems engineering technical elements. It defines SE processes and methodologies used on the project and the relationship of SE activities to other project activities. The SEMP must be consistent with, and evolve in concert, with the PMP. \n[3, SEBoK Relationships between Systems Engineering and Project Management]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
@@ -1885,20 +1477,8 @@
     "documentation": "    (1) The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements. (PMI 2013)\n\n    (2) The collection of work activities concerned with planning and estimating, measuring and controlling, leading and coordinating, and managing risk factors for a project. (Fairley 2009)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -1907,10 +1487,6 @@
     "name": "Software Engineering",
     "documentation": "    (1) The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software. (IEEE 1990) \n\n    (2) The study of approaches as in (1). (IEEE 1990)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -1922,10 +1498,6 @@
     "name": " Systems Engineering Plan ",
     "documentation": "A systems engineering plan (SEP) is a \"living\" document that captures a program's current and evolving systems engineering strategy and its relationship with the overall program management effort. The SEP purpose is to guide all technical aspects of the program. It should be established early in the Materiel Solution Analysis phase and updated continually. (DAU 2012)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
@@ -1942,10 +1514,6 @@
     "documentation": "The Project Management Plan (PMP) is the master planning document for the project. It describes all activities, including technical activities, to be integrated and controlled during the life of the program. \n[3, SEBoK Relationships between Systems Engineering and Project Management]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       },
@@ -1961,10 +1529,6 @@
     "documentation": "The organization or person that receives a product or service. (ISO/IEC/IEEE 2015)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -1975,10 +1539,6 @@
     "name": "Industrial Engineering",
     "documentation": "The design, improvement and installation of integrated systems of people, materials, information, equipment and energy. It draws upon specialized knowledge and skill in the mathematical, physical, and social sciences together with the principles and methods of engineering analysis and design, to specify, predict, and evaluate the results to be obtained from such systems (IIE 1992).\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -1991,10 +1551,6 @@
     "documentation": "Manufacturability and producibility is an engineering specialty. The machines and processes used to build a system must be architected and designed. A systems engineering approach to manufacturing and production is necessary because manufacturing equipment and processes can sometimes cost more than the system being built (Maier and Rechtin 2002). Manufacturability and producibility can be a discriminator between competing system solution concepts and therefore must be considered early in the study period, as well as during the maturing of the final design solution.\n[3, SEBoK Manufacturability and Producibility]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -2005,10 +1561,6 @@
     "name": "RAM Engineering",
     "documentation": "Reliability, availability, and maintainability (RAM) are three system attributes that are of tremendous interest to systems engineers, logisticians, and users. Collectively, they affect economic life-cycle costs of a system and its utility. \n[3, SEBoK Reliability, Availability, and Maintainability]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -2021,10 +1573,6 @@
     "documentation": "System safety engineering focuses on identifying hazards, their causal factors, and predicting the resultant severity and probability. The ultimate goal of the process is to reduce or eliminate the severity and probability of the identified hazards, and to minimize risk and severity where the hazards cannot be eliminated. MIL STD 882E defines a hazard as \"A real or potential condition that could lead to an unplanned event or series of events (i.e., mishap) resulting in death, injury, occupational illness, damage to or loss of equipment or property, or damage to the environment.\" (DoD 2012). \n[3, SEBoK Safety Engineering]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -2035,10 +1583,6 @@
     "name": "Security Engineering",
     "documentation": "Security engineering is concerned with building systems that remain secure despite malice or error. It focuses on the tools, processes, and methods needed to design and implement complete systems that proactively and reactively mitigate vulnerabilities. Security engineering is a primary discipline used to achieve system assurance.\n\nThe term System Security Engineering (SSE) is used to denote this specialty engineering field and the US Department of Defense define it as: \"an element of system engineering that applies scientific and engineering principles to identify security vulnerabilities and minimize or contain risks associated with these vulnerabilities\" (DODI5200.44, 12). [3, SEBoK Security Engineering]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -2051,10 +1595,6 @@
     "documentation": "Electromagnetic Interference (EMI) is the disruption of operation of an electronic device when it is in the vicinity of an electromagnetic field in the radio frequency (RF) spectrum. Many electronic devices fail to work properly in the presence of strong RF fields. The disturbance may interrupt, obstruct, or otherwise degrade or limit the effective performance of the circuit. The source may be any object, artificial or natural, that carries rapidly changing electrical currents.\n\nElectromagnetic Compatibility (EMC) is the ability of systems, equipment, and devices that utilize the electromagnetic spectrum to operate in their intended operational environments without suffering unacceptable degradation or causing unintentional degradation because of electromagnetic radiation or response. It involves the application of sound electromagnetic spectrum management; system, equipment, and device design configuration that ensures interference-free operation; and clear concepts and doctrines that maximize operational effectiveness (DAU 2010, Chapter 7).\nContents\n[3, SEBoK Electromagnetic Interference/Electromagnetic Compatibility]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -2065,10 +1605,6 @@
     "name": "Resilience Engineering",
     "documentation": "The purpose of resilience engineering and architecting is to achieve full or partial recovery of a system following an encounter with a threat that disrupts the functionality of that system. Threats can be natural, such as earthquakes, hurricanes, tornadoes, or tsunamis. Threats can be internal and human-made such as reliability flaws and human error. Threats can be external and human-made, such as terrorist attacks. Often, a single incident is the result of multiple threats, such as a human error committed in the attempt to recover from another threat. \n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -2081,10 +1617,6 @@
     "documentation": "NATO AEP-67 (Edition 1), Engineering for System Assurance in NATO Programs, defines system assurance as:\n\n    \u2026the justified confidence that the system functions as intended and is free of exploitable vulnerabilities, either intentionally or unintentionally designed or inserted as part of the system at any time during the life cycle... This confidence is achieved by system assurance activities, which include a planned, systematic set of multi-disciplinary activities to achieve the acceptable measures of system assurance and manage the risk of exploitable vulnerabilities. (NATO 2010, 1)\n[3, SEBoK System Assurance]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -2095,10 +1627,6 @@
     "name": "Environmental Engineering",
     "documentation": "Environmental engineering addresses four issues that arise in system design and operation. They include: (1) design for a given operating environment, (2) environmental impact, (3) green design, and (4) compliance with environment regulations. \n[3, SEBoK Environmental Engineering]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -2111,10 +1639,6 @@
     "documentation": "A system is affordable to the degree that system performance, cost, and schedule constraints are balanced over the system life, while mission needs are satisfied in concert with strategic investment and organizational needs (INCOSE 2011). Design for affordability is the practice of considering affordability as a design characteristic or constraint. \n[3, SEBoK Affordability]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -2126,10 +1650,6 @@
     "documentation": "Human systems integration (HSI) is an interdisciplinary technical and management process for integrating human considerations with and across all system elements, an essential enabler to systems engineering practice. Human activity considered by HSI includes operating, maintaining, and supporting the system. HSI also considers training and training devices, as well as the infrastructure used for operations and support (DAU 2010). HSI incorporates the following domains as integration considerations: manpower, personnel, training, human factors engineering, occupational health, environment, safety, habitability, and human survivability. \n[3, SEBoK Human Systems Integration]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -2140,10 +1660,6 @@
     "name": "Configuration Management",
     "documentation": "A discipline applying technical and administrative direction and surveillance to: identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify compliance with specified requirements. (ISO/IEC/IEEE 2010)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -2165,20 +1681,8 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -2187,10 +1691,6 @@
     "name": "Baseline",
     "documentation": "A specification or product that has been formally reviewed and agreed upon, that thereafter serves as the basis for further development, and that can be changed only through formal change control procedures. (ISO/IEEE 2008)\n[3, SEBoK Glossary]\n\nformally approved version of a configuration item, regardless of media, formally designated and fixed at a\nspecific time during the configuration item's life cycle\n{IEEE 828-2012} \n[4, 15288 4.1.10]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -2207,10 +1707,6 @@
     "documentation": "A hardware, software, or composite item at any level in the system hierarchy designated for configuration management. (The system and each of its elements are individual CI's) CIs have four common characteristics: 1.  Defined functionality 2.  Replaceable as an entity 3.  Unique specification 4.  Formal control of form, fit, and function [10, INCOSE Handbook, Appendix C]  Aggregation of hardware, software, or both, that is designated for configuration management and treated as a single entity in the configuration management process [4, 15288, Section 4.1, definitions]  CIs can be any type of artifact including documents, test results, schedules, plans, requirements, specifications, instructions, processes, etc.  ",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
       },
@@ -2226,10 +1722,6 @@
     "documentation": " The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of hardware; that is, the application of engineering to hardware elements. [Adapted from SW Engineering definition]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
       }
@@ -2240,10 +1732,6 @@
     "name": "Electrical Engineering",
     "documentation": " The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of electrical and electronic elements; that is, the application of engineering to electrical and electronic elements. [Adapted from SEBoK SW Engineering definition]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Disciplines",
         "refid": "_18_1_3b70190_1461171661819_806644_34470"
@@ -2260,10 +1748,6 @@
         "refid": "_18_1_3b70190_1461072592807_927839_93477"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
@@ -2293,14 +1777,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
       },
@@ -2311,10 +1787,6 @@
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -2332,10 +1804,7 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
@@ -2356,10 +1825,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -2391,10 +1856,6 @@
     "documentation": "    (1) A decision gate is an approval event (often associated with a review meeting). Entry and Exit criteria are established for each decision gate; continuation beyond the decision gate is contingent on the agreement of the decision-makers. (INCOSE 2011 p 362)\n\n    (2) A preplanned management event in the project cycle to demonstrate accomplishments, approve and baseline results, and approve the approach for continuing the project. (Also known as a control gate.) (Forsberg 2005, p 428)\n[3, SEBoK Glossary]\n\nSee [INCOSE Handbook ] section 3.2.2 for a full description and attributes.",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       }
@@ -2405,10 +1866,6 @@
     "name": "Event",
     "documentation": "A thing that happens, especially one of importance.[Google on-line Dictionary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
@@ -2444,21 +1901,10 @@
         "name": "Generic Life Cycle Model",
         "refid": "_18_1_3b70190_1461170866205_921723_42787"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
+
       {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -2467,10 +1913,6 @@
     "name": "Development Baseline",
     "documentation": "Developmental Baseline represents the state of work products amid development.  [8, Wikipedia, Baseline (configuration management)]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -2487,10 +1929,6 @@
     "documentation": "Product Baseline  contains the releasable contents of the project [8, Wikipedia, Baseline (configuration management)]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
       },
@@ -2505,10 +1943,6 @@
     "name": "Fuctional Baseline",
     "documentation": "Functional Baseline occurs when the initial specifications established; contract, etc.  [8, Wikipedia, Baseline (configuration management)]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -2525,10 +1959,6 @@
     "documentation": "Allocated Baseline represents the state of work products once requirements are approved. [8, Wikipedia, Baseline (configuration management)]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
       },
@@ -2544,10 +1974,6 @@
     "documentation": "Costs for the initial concept development efforts. Can usually be estimated based on average manpower and schedule spans and include overhead, general and administrative  (G&A) costs, and fees, as necessary.[10, INCOSE Handbook 10.1.3 ]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       }
@@ -2558,10 +1984,6 @@
     "name": "Work Breakdown Structure",
     "documentation": "The work breakdown structure is the decomposition of a project into smaller components and provides the necessary framework for detailed cost estimating and control. Includes a data dictionary. The cost for and the description of the physical end products ( hardware and software) may be captured in a product breakdown structure (PBS). The PBS supports bottoms up and algorithmic (parametric) cost estimating (see 10.1.3). The PBS is a key ingredient of commercial cost estimating tools\n[10, INCOSE Handbook Appendix E]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
@@ -2583,14 +2005,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
       },
@@ -2605,10 +2019,6 @@
       {
         "name": "Systems Thinking",
         "refid": "_18_1_3b70190_1461170543261_337827_37552"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -2623,14 +2033,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
       },
@@ -2645,10 +2047,6 @@
       {
         "name": "Systems Thinking",
         "refid": "_18_1_3b70190_1461170543261_337827_37552"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -2657,10 +2055,6 @@
     "name": "Concept",
     "documentation": "An abstraction; a general idea inferred or derived from specific instances. (Oxford Dictionaries Online 2012)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -2672,10 +2066,6 @@
     "name": "Operational Concept",
     "documentation": "Operational Concept: verbal and graphic statement of an organization\u2019s assumptions or intent in regard to an operation or series of operations of a system or a related set of systems. (ANSI/AIAA G-043-199)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -2714,10 +2104,6 @@
     "documentation": "Requests to update any formal baselines that have been established. In many cases, the need for change requests is identified during the project assessment and control process, Can originate from any life cycle process.\n[10, INCOSE Handbook, Appendix E]  \nThe INCOSE Handbook called this a Project Change Request. The term Change Request is also used throughout the document and seems to be more general and covers a broader originating scope, other than just when a project is active. \nThere are many other terms used to request changes including  ECR, ECP, CCR, RFC and RFV. They all are specializations of this generic term Change Request. The 15288 only uses Change Request.",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
       },
@@ -2733,10 +2119,6 @@
     "documentation": "Usually driven by tooling and material cost for large volume systems. Labor cost estimates a prepared by estimating the cost of the first production unit and then applying learning curve formula to determine the reduced costs of subsequent production units.\n[10, INCOSE Handbook 10.1.3 ]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       }
@@ -2748,10 +2130,6 @@
     "documentation": "Costs for the system development efforts. Similar to concept costs, can usually be estimated based on average manpower and schedule spans and include overhead, G&A costs, and fees, as necessary.\n[10, INCOSE Handbook 10.1.3 ]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       }
@@ -2762,10 +2140,6 @@
     "name": "Specification Change Notice",
     "documentation": "Used to propose, transmit, and record chnages to baseline specifications. [10, INCOSE Handbook, section 5.5.2]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -2782,10 +2156,6 @@
     "documentation": "Configuration change management, or change control, manages the collection of the items to be baselined and maintains the integrity of the CI's identified by facilitating approved changes (e.g. via ECRs) and preventing incorporation of unapproved changes into the baseline. Change Control should be in effect beginning at project initiation.\n[10, INCOSE Handbook, section 5.5.2.2]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
       }
@@ -2796,10 +2166,6 @@
     "name": "Configuration Control Board",
     "documentation": "Configuration Control Board (CCB) provides a central a central point to coordinate, review, evaluate, and approve all proposed changes to baselined documentation and configurations and configuration, including hardware, software and firmware. The review board is composed of members from the various disciplines, including SE, software and hardware engineering, project management, product assurance, and configuration management. [10, INCOSE Handbook, section 5.5.2.2]\n\nThe CCB can contain members from all relevant stakeholders. Some additional members can also be from all engineering disciplines, Manufacturing and Support, \n",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -2812,10 +2178,6 @@
     "documentation": "Retirement costs - The cost for removing the system from operation and includes an estimate of the trade-in or selvage costs. Could be positive or negative and should be mindful of environmental impact to dispose.\n[10, INCOSE Handbook 10.1.3 ]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
       }
@@ -2826,10 +2188,6 @@
     "name": "Utilization and Support Costs",
     "documentation": "Typically based on future assumptions for ongoing operation and maintenance of the system, for example, fuel costs, manning levels, and spare parts.\n[10, INCOSE Handbook 10.1.3 ]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Life Cycle",
         "refid": "_18_1_3b70190_1461170943349_427137_44453"
@@ -2846,10 +2204,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -2875,10 +2229,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       }
@@ -2899,24 +2249,12 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -2930,10 +2268,6 @@
         "refid": "_18_1_3b70190_1461170681105_152213_39710"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -2955,10 +2289,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -2978,10 +2308,6 @@
         "refid": "_18_1_3b70190_1461170681105_152213_39710"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3003,10 +2329,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       }
@@ -3022,10 +2344,6 @@
         "refid": "_18_1_3b70190_1461170681105_152213_39710"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
@@ -3043,10 +2361,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       }
@@ -3062,10 +2376,6 @@
         "refid": "_18_1_3b70190_1461170681105_152213_39710"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
@@ -3083,10 +2393,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       }
@@ -3103,14 +2409,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       },
@@ -3121,10 +2419,6 @@
       {
         "name": "SEBoK - Requirement Traceability",
         "refid": "_18_1_3b70190_1452723969050_210329_28248"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -3133,10 +2427,6 @@
     "name": "Engineering Change Proposal",
     "documentation": "<html>\n  <head>\n\t\t<style>\n\t\t\tp {padding:0px; margin:0px;}\n\t\t</style>\n\t</head>\n  <body>\n    <p>\nAn engineering change proposal (ECP) is the management tool used to propose a configuration change to a configuration item (CI) and the system's baselined performance requirements and configuration documentation established <b>during design and development of the system</b> (DoD 2001)\n\n    </p>\n\n    <p>\n[3, SEBoK Glossary]\n\n    </p>\n\n</body>\n</html>",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -3165,10 +2455,7 @@
         "name": "ACM and SECM Integration",
         "refid": "_18_1_3b70190_1461173895008_821833_51408"
       },
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
+
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
@@ -3190,20 +2477,8 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -3212,10 +2487,6 @@
     "name": "System Requirement",
     "documentation": "What the system needs to do, how well, under what conditions, as required to meet project and design constraints. Includes types of requirements such as functional, performance, interface, behavior (e.g. states and moods, stimulus responses, fault and failure handling), operational conditions (e.g. safety dependability, human factors, environmental conditions), transportation, storage, physical constraints, realization, immigration, verification, validation, production, maintenance, disposal constraints, and regulation. System requirements may be captured in a document called the System Requirements Specification (SyRS) or just System Specification. This includes the requirements at any level in the system hierarchy.\n[10, INCOSE Handbook, Appendix E: Input/Output Descriptions ]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3236,10 +2507,6 @@
     "documentation": "An architecture framework establishes a common practice for creating, interpreting, analyzing and using architecture descriptions within a particular domain of application or stakeholder community. (ISO/IEC/IEEE 2007) [3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       }
@@ -3255,10 +2522,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3279,10 +2542,6 @@
     "documentation": "    (1a) The requirements for a system that can provide the services needed by users and other stakeholders in a defined environment. (ISO/IEC/IEEE, 2015, section 6.4.1)\n\n    (1b) The stakeholder needs and requirements definition process identifies stakeholders, or stakeholder classes, involved with the system throughout its life cycle, and their needs. It analyzes and transforms these needs into a common set of stakeholder requirements that express the intended interaction the system will have with its operational environment and that are the reference against which each resulting operational capability is validated. The stakeholder requirements are defined considering the context of the system-of-interest with the interoperating systems and enabling systems. (ISO/IEC/IEEE,2015) [3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       },
@@ -3297,10 +2556,6 @@
     "name": "Stakeholder Need",
     "documentation": "Needs determined from communications with internal and external stakeholders in understanding their expectations, needs, requirements, values, problems, issues, and perceived risks and opportunities. [4, Appendix E, Input and Output Descriptions]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
@@ -3322,10 +2577,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       }
@@ -3342,20 +2593,8 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -3364,10 +2603,6 @@
     "name": "Traceability",
     "documentation": "The degree to which a relationship can be established between two or more products of the development process, especially products having a predecessor-successor or master-subordinate relationship to one another (IEEE 1233-1998 (R2002) IEEE Guide for Developing System Requirements Specifications, 3.1.9) \n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
@@ -3388,10 +2623,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking Working",
         "refid": "_18_1_3b70190_1461174392785_853503_54664"
@@ -3416,10 +2647,6 @@
     "documentation": "What the system element needs to do, how well, under what conditions, as required to contribute to meeting the system  and design constraints. Includes types of requirements such as functional, performance, interface, behavior, operational conditions, transportation, storage, physical constraints, realization, immigration, verification, validation, production, maintenance, disposal constraints, and regulation.\n[For SECM, Adapted from INCOSE definition for System Requirement]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       },
@@ -3434,10 +2661,6 @@
     "name": "Derived Requirement ",
     "documentation": "Constraint stated during the design activities which arise as a result of the selected solution (for example, a necessary mean or resource related to a technology, or an interface between two components of different sub-systems). (Faisandier 2012) \n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "SEBoK - Requirement Traceability",
         "refid": "_18_1_3b70190_1452723969050_210329_28248"
@@ -3454,10 +2677,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3479,10 +2698,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -3502,10 +2717,6 @@
         "refid": "_18_1_3b70190_1461170681105_152213_39710"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3527,10 +2738,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       }
@@ -3546,10 +2753,6 @@
         "refid": "_18_1_3b70190_1461170681105_152213_39710"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3571,10 +2774,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -3594,10 +2793,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3623,10 +2818,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -3651,10 +2842,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -3675,10 +2862,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Work Products",
         "refid": "_18_1_3b70190_1461171588992_742663_32624"
       }
@@ -3694,10 +2877,6 @@
         "refid": "_18_1_3b70190_1452723715344_588719_27344"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
@@ -3719,10 +2898,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Architecture",
         "refid": "_18_1_3b70190_1461171130994_976754_72354"
       },
@@ -3743,14 +2918,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
       },
@@ -3765,10 +2932,6 @@
       {
         "name": "Systems Thinking",
         "refid": "_18_1_3b70190_1461170543261_337827_37552"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -3777,10 +2940,6 @@
     "name": "Paradymn",
     "documentation": "A view of the world that may or may not conflict with accepted scientific principles. -- adapted from (Vaughn 1997, 196)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -3797,14 +2956,6 @@
     "documentation": "    (1) An epistemology which, when applied to human activity is based on four basic ideas: emergence, hierarchy, communication, and control as characteristics of systems. (Checkland 1999)\n\n    (2) A process of discovery and diagnosis \u2013 an inquiry into the governing processes underlying the problems and opportunities. (Senge 1990)\n\n    (3) A discipline for examining wholes, interrelationships, and patterns utilizing a specific set of tools and techniques. (Senge 1990)[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Systems Thinking Working",
         "refid": "_18_1_3b70190_1461174392785_853503_54664"
       },
@@ -3815,10 +2966,6 @@
       {
         "name": "Systems Thinking",
         "refid": "_18_1_3b70190_1461170543261_337827_37552"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -3827,10 +2974,6 @@
     "name": "Interaction Principle",
     "documentation": "The properties, capabilities, and behavior of a system are derived from its parts, from interactions between those parts, and from interactions with other systems. (Hitchins 2009 p. 60) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -3843,10 +2986,6 @@
     "documentation": "    (1) The theory that parts of a whole are in intimate interconnection, such that they cannot exist or be understood independently of the whole. (von Bertalanffy 1968)\n\n    (2) To take a Holistic view of a situation. (von Bertalanffy 1968)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
       }
@@ -3858,10 +2997,6 @@
     "documentation": "In open systems, the same final state may be reached from different initial conditions and in different ways (Bertalanffy 1968). This principle can be exploited, especially in systems of purposeful agents. \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -3872,10 +3007,6 @@
     "name": "Encapsulation Principle",
     "documentation": "Hide internal parts and their interactions from the external environment. (Klerer 1993; IEEE 1990) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -3893,10 +3024,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
       }
@@ -3908,10 +3035,6 @@
     "documentation": "    (1) The division of something conceptually into two opposed or contrasted aspects, or the state of being so divided. (Stanford Encyclopedia of Philosophy 2011)\n\n    (2) In the history of thought, the idea that, for some particular domain, there are two fundamental kinds or categories of things or principles. (Stanford Encyclopedia of Philosophy 2011)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
       }
@@ -3922,10 +3045,6 @@
     "name": "Change Principle",
     "documentation": "Change is necessary for growth and adaptation, and should be accepted and planned for as part of the natural order of things rather than something to be ignored, avoided, or prohibited (Bertalanffy 1968; Hybertson 2009). \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -3947,10 +3066,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
       }
@@ -3961,10 +3076,6 @@
     "name": "Attribute",
     "documentation": "    An inherent property or characteristic of an entity that can be distinguished quantitatively or qualitatively by human or automated means. (ISO/IEC/IEEE 2007)\n\nSEBoK Discussion\nThere are 8 definitions of attribute in the standards covered by the IEEE Systems and Software Vocabulary Project (sevocab). The included definition is the second, but best seems to capture the intended use of the term in SEBoK. Many uses of the term attribute are specific to database theory and formal modeling. See www.computer.org/sevocab for more detail.\nSEVOCAB contains the following note:\n[An] attribute can refer either to general characteristics such as reliability, maintainability, and usability or to specific features of a software product. ISO 9000 distinguishes two types of attributes: a permanent characteristic existing inherently in something; and an assigned characteristic of a product, process or system (e.g. the price of a product, the owner of a product). The assigned characteristic is not an inherent quality characteristic of that product, process or system. An attribute expresses some characteristic that is generally common to the instances of a class. The name of the attribute is the name of the role that the value class plays in describing the class, which may simply be the name of the value class (as long as using the value class name does not cause ambiguity).\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1461160485031_583593_35861"
@@ -3977,10 +3088,6 @@
     "documentation": "The combination of parts, elements, or diverse conceptions into a coherent whole; to put together (INCOSE 1998, p. 236)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
       }
@@ -3991,10 +3098,6 @@
     "name": "Systems Concept",
     "documentation": "A mode of description, which explains an aspect of an object in terms of a set of interacting elements. The object can, in principle, be anything: a physical object, a body of work, an idea, or an enterprise. (Created for SEBoK)\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
@@ -4028,10 +3131,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Complexity and Emergence",
         "refid": "_18_1_3b70190_1461169802335_202248_35627"
       },
@@ -4060,24 +3159,12 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Systems Thinking Working",
         "refid": "_18_1_3b70190_1461174392785_853503_54664"
       },
       {
         "name": "Systems Thinking",
         "refid": "_18_1_3b70190_1461170543261_337827_37552"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -4086,10 +3173,6 @@
     "name": "Separation of Concerns Principle",
     "documentation": "A larger problem is more effectively solved when decomposed into a set of smaller problems or concerns. (Erl 2012; Greer 2008) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4107,10 +3190,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
       }
@@ -4121,10 +3200,6 @@
     "name": "Regularity",
     "documentation": "A uniformity or similarity that exists in multiple entities or at multiple times. (von Bertalanffy 1968).\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -4137,10 +3212,6 @@
     "documentation": "A system is characterized by its relations: the interconnections between the elements. Feedback is a type of relation. The set of relations defines the network of the system. (Odum 1994) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4151,10 +3222,6 @@
     "name": "Parsimony Principle",
     "documentation": " One should choose the simplest explanation of a phenomenon, the one that requires the fewest assumptions (Cybernetics 2012). This applies not only to choosing a design, but also to operations and requirements. \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4167,10 +3234,6 @@
     "documentation": "The evolution of complex systems is facilitated by their hierarchical structure (including stable intermediate forms) and the understanding of complex systems is facilitated by their hierarchical description. (Pattee 1973; Bertalanffy 1968; Simon 1996) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4181,10 +3244,6 @@
     "name": "Leverage ",
     "documentation": "Leverage (of a solution) is the degree to which it satisfies the following two criteria (which are, in general, conflicting): (a) number of problem situations to which it applies, and (b) extent to which it provides the complete solution needed for the specific problem situations to which it applies. Leverage is the product of these two criteria. (Hybertson 2009).\n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -4197,10 +3256,6 @@
     "documentation": "    (1) Degree to which a system or computer program is composed of discrete components such that a change to one component has minimal impact on other components. (ISO/IEC 2011)\n\n    (2) Software attributes that provide a structure of highly independent components. (ISO/IEC/IEEE 2010)\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
       }
@@ -4211,10 +3266,6 @@
     "name": "Network",
     "documentation": "An arrangement of nodes and interconnecting branches. (ISO/IEC 1993) \n[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
@@ -4227,10 +3278,6 @@
     "documentation": "Both the similarities and differences in systems should be recognized and accepted for what they are. (Bertalanffy 1975 p. 75; Hybertson 2009). Avoid forcing one size fits all, and avoid treating everything as entirely unique. \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4241,10 +3288,6 @@
     "name": "Stability/ Change Principle",
     "documentation": "Things change at different rates, and entities or concepts at the stable end of the spectrum can and should be used to provide a guiding context for rapidly changing entities at the volatile end of the spectrum (Hybertson 2009). The study of complex adaptive systems can give guidance to system behavior and design in changing environments (Holland 1992). \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4257,10 +3300,6 @@
     "documentation": "A means of solving a problem or dealing with a difficult situation. (American Heritage Dictionary 2009 on-line )\n[3, SEBoK Glossary]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "Systems Thinking OLD",
         "refid": "_18_1_3b70190_1461174463880_207618_56284"
       }
@@ -4271,10 +3310,6 @@
     "name": "CI Version",
     "documentation": "[3, SEBoK Glossary]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "Configuration Management",
         "refid": "_18_1_3b70190_1461170762219_193320_41232"
@@ -4291,10 +3326,6 @@
     "documentation": "    (1) An entity with discrete structure, such as an assembly or software module, within a system considered at a particular level of analysis. (ISO/IEC 1998)\n\n    (2) One of the parts that make up a system. (IEEE 2008)\n\n    (3) A set of functional services in the software, which, when implemented, represents a well-defined set of functions and is distinguishable by a unique name. (ISO/IEC 2008)\n[3, SEBoK Glossary]\n\nIn systems terms, we use component as the generic term for the level of decomposition at which system elements are no longer considered complex, and for which specialist design disciplines can be used. [3, SEBoK Glossary Discussion]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Hierarchy",
         "refid": "_18_1_3b70190_1452723988693_792971_28321"
       },
@@ -4310,10 +3341,6 @@
     "documentation": "[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4324,10 +3351,6 @@
     "name": "Abstraction Principle",
     "documentation": "[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4340,10 +3363,6 @@
     "documentation": "Recognize dualities and consider how they are, or can be, harmonized in the context of a larger whole (Hybertson 2009) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4354,10 +3373,6 @@
     "name": "Holism Principle",
     "documentation": "A system should be considered as a single entity, a whole, not just as a set of parts. (Ackoff 1979; Klir 2001) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4370,10 +3385,6 @@
     "documentation": "Achieve maximum leverage (Hybertson 2009). Because of the power versus generality tradeoff, leverage can be achieved by a complete solution (power) for a narrow class of problems, or by a partial solution for a broad class of problems (generality). \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4384,10 +3395,6 @@
     "name": "Synthesis Principle",
     "documentation": "[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4400,10 +3407,6 @@
     "documentation": "Systems science should find and capture regularities in systems, because those regularities promote systems understanding and facilitate systems practice. (Bertalanffy 1968) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4414,10 +3417,6 @@
     "name": "Network  Principle",
     "documentation": "The network is a fundamental topology for systems that forms the basis of togetherness, connection, and dynamic interaction of parts that yield the behavior of complex systems (Lawson 2010; Martin et al. 2004; Sillitto 2010) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4430,10 +3429,6 @@
     "documentation": "Unrelated parts of the system should be separated, and related parts of the system should be grouped together. (Griswold 1995; Wikipedia 2012a) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
       }
@@ -4444,10 +3439,6 @@
     "name": "View Principle",
     "documentation": "Recognize dualities and consider how they are, or can be, harmonized in the context of a larger whole (Hybertson 2009) \n[3, SEBoK, Principles of Systems Thinking]",
     "appearsIn": [
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "System Thinking - Principles",
         "refid": "_18_1_3b70190_1461170550821_973_37594"
@@ -4465,10 +3456,6 @@
       },
 
       {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
-      {
         "name": "SEBoK Structure",
         "refid": "_18_1_3b70190_1452723977002_358308_28280"
       }
@@ -4484,10 +3471,6 @@
         "refid": "_18_1_3b70190_1461169681016_302604_34968"
       },
 
-      {
-        "name": "Examine Assigned Stereotypes Industry Reference Table",
-        "refid": "_18_1_3b70190_1453128143903_766330_43615"
-      },
       {
         "name": "SEBoK Structure",
         "refid": "_18_1_3b70190_1452723977002_358308_28280"
@@ -4520,20 +3503,12 @@
       },
 
       {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
-      },
-      {
         "name": "Organizations",
         "refid": "_18_1_3b70190_1461172810034_543492_38767"
       },
       {
         "name": "Organizations xx",
         "refid": "_18_1_3b70190_1452813854742_511018_34765"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
@@ -4545,11 +3520,6 @@
       {
         "name": "Core SEBoK Concepts",
         "refid": "_18_1_3b70190_1461072592807_927839_93477"
-      },
-
-      {
-        "name": "Core SEBok Components 2",
-        "refid": "_18_1_3b70190_1460234309964_483000_73561"
       },
       {
         "name": "Systems Thinking Working",
@@ -4570,10 +3540,6 @@
       {
         "name": "Systems Thinking",
         "refid": "_18_1_3b70190_1461170543261_337827_37552"
-      },
-      {
-        "name": "Core SEBoK Concepts  (preliminary)",
-        "refid": "_18_1_3b70190_1460229826773_739572_70242"
       }
     ]
   },
