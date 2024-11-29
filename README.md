@@ -6,6 +6,7 @@ This project analyzes research articles to identify emerging topics in Systems E
 ## Project Structure
 ```
 ├── README.md
+├── main.py
 ├── data
 │   ├── SECM
 │   ├── concept_list_names.txt
@@ -15,9 +16,6 @@ This project analyzes research articles to identify emerging topics in Systems E
 ├── diagrams
 │   ├── drawHeatmap.py
 │   └── outputDiagram.jpg
-├── file_structure.txt
-├── main.py
-├── output.txt
 └── tests
     ├── test_diagram_1.xml
     └── test_get_shapes.py
