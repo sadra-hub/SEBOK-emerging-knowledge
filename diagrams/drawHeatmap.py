@@ -65,8 +65,10 @@ def get_color(score, min_score, max_score, transparency=255):
 
 
 # Load the image
-image_path = "diagram.jpg"  # Replace with your image path
+image_path = "data/SECM/SECM Version 09-15-2016_files/_18_1_3b70190_1461169802335_202248_35627.jpg"
 image = Image.open(image_path)
+
+diagram_path = "data/SECM/SECM Version 09-15-2016_files/xml/_18_1_3b70190_1461169802335_202248_35627.xml"
 
 # Get the image dimensions
 width, height = image.size

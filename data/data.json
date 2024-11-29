@@ -1,0 +1,3971 @@
+[
+  {
+    "code": "_18_1_3b70190_1443621615679_767699_16929",
+    "name": "System",
+    "documentation": "(1) A set of elements in interaction. (von Bertalanffy 1968)\n(2) combination of interacting elements organized to achieve one or more stated purposes (ISO/IEC/IEEE 2015)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443621628264_862633_16975",
+    "name": "Engineered System",
+    "documentation": "An open, concrete system of technical or sociotechnical elements that exhibit emergent properties not exhibited by the individual elements. Its characteristics include being created by and for people; having a purpose, with multiple views; satisfying key stakeholders\u2019 value propositions; having a life cycle and evolution dynamics; having a boundary and an external environment; and being a part of a system-of-interest hierarchy. (Created for SEBoK) [3, Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443621955778_68529_17026",
+    "name": "System Element",
+    "documentation": "A member of a set of elements that constitutes a system. A system element is a discrete part of a system that can be implemented to fulfill specified requirements. A system element can be hardware, software, data, humans, processes (e.g., processes for providing service to users), procedures (e.g., operator instructions), facilities, materials, and naturally occurring entities (e.g., water, organisms, minerals), or any combination. (ISO/IEC 15288:2015) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443623997836_368343_17199",
+    "name": "Life Cycle",
+    "documentation": "    (1) The organized collection of activities, relationships and contracts which apply to a system-of-interest during its life. (Pyster 2009, 73)\n\n    (2) The evolution of a system, product, service, project or other human-made entity from conception through retirement. (ISO/IEC/IEEE 2015)\n\n    (3) Development (life) cycles start with user needs and end with system decommissioning and disposal. Project cycles contain three aspects: business, budget, and technical. (Mooz, Forsberg, Cotterman 2003, 259)\n\n[3, SEBoK Glossary]\nSpan of time from mits conception to disposal and is broken ",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "Concept Term Categories and Color Definitions",
+        "refid": "_18_1_3b70190_1461172090476_744631_37297"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443624263978_731812_17226",
+    "name": "Natural System",
+    "documentation": "An open system whose elements, boundary, and relationships exist independently of human control. (Created for SEBoK) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443624269596_495986_17228",
+    "name": "Social System",
+    "documentation": "An open system which includes human elements. (Created for SEBoK)  [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443628766247_875893_17288",
+    "name": "Element",
+    "documentation": "<html>\n  <head>\n\t\t<style>\n\t\t\tp {padding:0px; margin:0px;}\n\t\t</style>\n\t</head>\n  <body>\n    <p>\nThat which is discernible by reproducible measurement of its characteristics.\n\n    </p>\n\n    <p>\n[Oliver Model]\n\n    </p>\n\n    <p>\n&#160;\n\n    </p>\n\n    <p>\nf : a distinct part of a composite device [11, on-line <a href=\"http://www.merriam-webster.com/dictionary/element\">Merriam Websters Dictionary</a>]\n\n    </p>\n\n    <p>\n&#160;\n\n    </p>\n\n    <p>\nNotes - definition not available in SEBoK or SE Handbook\n\n    </p>\n\n    <p>\n&#160;\n\n    </p>\n\n    <p>\nAnything of interest to the modeler, which is uniquely identifiable and can be characterized by a set of properties. [UML 4SE RFP]\n\n    </p>\n\n</body>\n</html>",
+    "appearsIn": [
+      {
+        "name": "Industry Reference - Properties",
+        "refid": "_18_1_3b70190_1457911987233_781060_84353"
+      },
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443630906805_54594_17331",
+    "name": "System-of-Interest",
+    "documentation": "<html>\n  <head>\n\t\t<style>\n\t\t\tp {padding:0px; margin:0px;}\n\t\t</style>\n\t</head>\n  <body>\n    <blockquote>\n      <p align=\"left\">\n(1) The <a href=\"http://sebokwiki.org/wiki/System_%28glossary%29\">system</a> whose life cycle is under consideration. (ISO/IEC/IEEE 2015)\n\n      </p>\n\n    </blockquote>\n    <blockquote>\n      <p align=\"left\">\n(2) The <a href=\"http://sebokwiki.org/wiki/System_%28glossary%29\" title=\"System (glossary)\" class=\"cat-disqus cat-glossary_of_terms\">system</a> of interest to an observer. (Bertalanffy 1968)\n\n      </p>\n\n      <p align=\"left\">\n[3, SEBoK Glossary]\n\n      </p>\n\n    </blockquote>\n    <p>\n&#160;\n\n    </p>\n\n</body>\n</html>",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443702769525_111292_18351",
+    "name": "System of Systems",
+    "documentation": "    (1) Two or more systems that are separately defined but operate together to perform a common goal. (Checkland 1999) \n\n    (2) an assemblage of components which individually may be regarded as systems, and which possess two additional properties:\n\n        (a) Operational Independence of the Components: If the system-of-systems is disassembled into its component systems the component systems must be able to usefully operate independently. That is, the components fulfill customer-operator purposes on their own. \n\n        (b) Managerial Independence of the Components: The component systems not only can operate independently, they do operate independently. The component systems are separately acquired and integrated but maintain a continuing operational existence independent of the system-of-systems. (Maier 1998, 267-284)\n\n    (3) System\u2010of\u2010systems applies to a system\u2010of\u2010interest whose system elements are themselves systems; typically these entail large scale inter\u2010disciplinary problems with multiple, heterogeneous, distributed systems. (INCOSE 2012)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443812698448_403296_19072",
+    "name": "System Support Stage",
+    "documentation": "Systems Support includes various classes of maintenance: corrective (for defects), adaptive (for interoperability with independently evolving co-dependent systems), and perfective (for enhancement of performance, usability, or other key performance parameters). It also includes hot lines and responders for user or emergency support and the provisioning of needed consumables (gas, water, power, etc.). Its boundaries include some gray areas, such as the boundary between small system enhancements and the development of larger complementary new additions, and the boundary between rework/maintenance of earlier fielded increments in incremental or evolutionary development. Systems Support usually continues after System Production is terminated. \n[3, SEBoK Generic Life Cycle Model]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443812958470_477630_19139",
+    "name": "Product System Context ",
+    "documentation": "     (1) A system context for which the system-of-interest (SoI) is a product. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443812996389_516223_19168",
+    "name": "Service System Context ",
+    "documentation": "A system context for which the system-of-interest (SoI) is a Service System\n[Created for Context Model]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443813004740_534514_19175",
+    "name": "Enterprise System Context",
+    "documentation": "A system context for which the system-of-interest is an enterprise. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443817300728_524451_17060",
+    "name": "Environment",
+    "documentation": "    (1) Anything affecting a subject system or affected by a subject system through interactions with it, or anything sharing an interpretation of interactions with a subject system. (IEEE 1175.1-2002 (R2007), 3.6)\n\n    (2) The surroundings (natural or man\u2010made) in which the system\u2010of-interest is utilized and supported; or in which the system is being developed, produced or retired. (INCOSE 2010) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443819459057_321478_17573",
+    "name": "Open System",
+    "documentation": "A system which exchanges inputs and outputs with its environment. (von Bertalanffy 1968) [2, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443821135828_276621_17830",
+    "name": "System Context",
+    "documentation": "    (1) Describes the system relationships and environment, resolved around a selected system-of-interest. (Flood and Carson 1993)\n\n    (2) Diagram defining the highest level view of a system in its environment. (Flood and Carson 1993)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443821268492_941195_17887",
+    "name": "System Boundary",
+    "documentation": "A distinction made by an observer which marks the difference between an entity he takes to be a system and its environment. (Checkland 1999, 312)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443821586200_139058_18091",
+    "name": "Closed System",
+    "documentation": "A system which has no interactions with its environment. (von Bertalanffy 1968)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443823571160_713780_18117",
+    "name": "Viewpoint",
+    "documentation": "A viewpoint is a specification of the conventions and rules for constructing and using a view for the purpose of addressing a set of stakeholder concerns (OMG 2010)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443823577683_221391_18127",
+    "name": "View",
+    "documentation": "A representation of a system from the perspective of a viewpoint. (OMG 2010)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Concept Term Categories and Color Definitions",
+        "refid": "_18_1_3b70190_1461172090476_744631_37297"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443970100973_330525_20097",
+    "name": "Behavior",
+    "documentation": "     (1) Systems behavior is a change which leads to events in itself or other systems. Thus, action, reaction or response may constitute behavior in some cases. (Ackoff 1971)\n\n    (2) The effect produced when an instance of a complex system or organism is used in its operational environment. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Change Color of Stereotyped Elements",
+        "refid": "_18_1_3b70190_1446844158257_334407_61965"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443970293927_43581_20115",
+    "name": "Function",
+    "documentation": "    (1) A system outcomes which contribute to goals or objectives. To have a function, a system must be able to provide the outcome through two or more different combinations of elemental behavior. (Ackoff 1971)\n\n    (2) An action, a task, or an activity performed to achieve a desired outcome. (Hitchins 2007)\n\n    (3) A broad work area encompassing multiple related disciplines (e.g., Engineering, Finance, Human Resources, etc.). (Created for SEBoK)\n\n    (4) A function is defined by the transformation of input flows to output flows, with defined performance. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Change Color of Stereotyped Elements",
+        "refid": "_18_1_3b70190_1446844158257_334407_61965"
+      },
+      {
+        "name": "Interfaces Concepts from Industry Reference Model",
+        "refid": "_18_1_3b70190_1453390290844_917557_50805"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443970390828_610073_20155",
+    "name": "Property",
+    "documentation": "Any named, measurable or observable attribute, quality or characteristic of a system or system element. (OMG 2003)\n[3 SEBoK Glossary]\nNote: SEBoK defined term was for System Property. It was changed to Property so it could be used at multiple levels, i.e element, System Element and System. ",
+    "appearsIn": [
+      {
+        "name": "Industry Reference - Properties",
+        "refid": "_18_1_3b70190_1457911987233_781060_84353"
+      },
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "ACM and SECM Integration",
+        "refid": "_18_1_3b70190_1461173895008_821833_51408"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972290763_211373_20340",
+    "name": "Hardware",
+    "documentation": "A component of a system that has geometric constraints. [UML 4SE RFP]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972301182_9150_20352",
+    "name": "Software",
+    "documentation": "All or part of the programs, procedures, rules, and associated documentation of an information processing system. (ISO/IEC 2382-1:1993)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972301191_847036_20353",
+    "name": "Human",
+    "documentation": "Homo sapiens is the binomial nomenclature for the human species. Homo is the human genus, which also includes Neanderthals and many other extinct species of hominid; H. sapiens is the only surviving species of the genus Homo. [8, Wikipedia, Human]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972311991_706117_20380",
+    "name": "Data",
+    "documentation": "Data  is any sequence of symbols giving meaning by specific acts of interpretation. Digital data is the quantities, characters, or symbols on which operations are performed by a computer, stored and recorded on magnetic, optical, or mechanical recording media, and transmitted in the form of electrical signals.[9, Wikipedia, Data (Computing)]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972312003_578867_20382",
+    "name": "Procedure",
+    "documentation": "An established or official way of doing something.\nA series of actions conducted in a certain order or manner.\n[Google definition]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972312026_205232_20383",
+    "name": "Facility",
+    "documentation": "An installation, contrivance, or other things which facilitates something; a place for doing something:\n    -  A commercial or institutional building, such as a hotel, resort, school, office complex, sports arena, or convention center\n    -  Medical facility\n    -  Post-production facility\n    -  Telecommunications facility\n[9, Wikipedia, Facility]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972585305_162532_20456",
+    "name": "System Breakdown Structure",
+    "documentation": "A hierarchy of elements, related life cycle processes, and personnel used to assign development teams, conduct technical reviews, and to partition out the assigned work and associated resource allocations to each of the tasks necessary to accomplish the objectives of the project. (IEEE 2005) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1443972591358_242904_20470",
+    "name": "Natural Occuring Entity",
+    "documentation": "From definition of System Element \"naturally occurring entities (e.g., water, organisms, minerals)\" [3, SEBoK]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444048496211_642839_26735",
+    "name": "Stakeholder",
+    "documentation": "    (1) Individual or organization having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations (ISO/IEC/IEEE 2015) \n\n    (2) Individual or organization having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations; N.B. Stakeholders include, but are not limited to end users, end user organizations, supporters, developers, producers, trainers, maintainers, disposers, acquirers, customers, operators, supplier organizations and regulatory bodies. (ISO/IEC June 2010) \n\n    (3) An individual, team, or organization (or classes thereof) with interests in, or concerns relative to, a system. (ISO/IEC 2007)\n\n    (4) A stakeholder in an organization is (by definition) any group or individual who can affect or is affected by the achievement of the organization's objectives. (Freeman 1984)[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444238389226_382092_32883",
+    "name": "Sociotechnical System",
+    "documentation": "An engineered system which includes a combination of technical and human or natural elements. [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444241039261_147665_33286",
+    "name": "Federation of Systems",
+    "documentation": "A system of systems that rates high on three dimensions of autonomy, heterogeneity, and dispersion. Each component system chooses of its own accord to participate in the FOS as it sees fit. It is a \u201ccoalition of the willing.\u201d (Krygiel 1999) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444566585915_111636_18759",
+    "name": "Product ",
+    "documentation": "     (1) A system considered from the point of view of a physical \u201csystem end product\u201d (ANSI/EIA 2003) made of system elements that may include hardware, software, infrastructure and support services. The people and organizational aspects of the \u201cwhole system\u201d of which the \u201cproduct system\u201d forms a part have to be considered in the design, but are provided by another organization. (INCOSE UK Chapter 2010)\n\n    (2) An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item. (PMI 2008)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444566599166_615578_18775",
+    "name": "Service System",
+    "documentation": "A dynamic configuration of resources (people, technology, organizations and shared information) that creates and delivers value between the provider and the customer through services. (IfM and IBM 2008)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444566599169_925490_18776",
+    "name": "Enterprise System",
+    "documentation": "    (1) one or more organizations sharing a definite mission, goals, and objectives to offer an output such as a product or service. (ISO 15704 2000) \n\n    (2) An organization (or cross organizational entity) supporting a defined business scope and mission that includes interdependent resources (people, organizations and technologies) that must coordinate their functions and share information in support of a common mission (or set of related missions). (CIO Council 1999)\n\n    (3) the term enterprise can be defined in one of two ways. The first is when the entity being considered is tightly bounded and directed by a single executive function. The second is when organizational boundaries are less well defined and where there may be multiple owners in terms of direction of the resources being employed. The common factor is that both entities exist to achieve specified outcomes. (MOD 2004) \n\n    (4) A complex, (adaptive) socio-technical system that comprises interdependent resources of people, processes, information, and technology that must interact with each other and their environment in support of a common mission. (Giachetti 2010) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444566622850_831733_18802",
+    "name": "System of System Context",
+    "documentation": "A system context for which the system-of-interest (SoI) is a System of Systems. [Created for Context Model]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Environment",
+        "refid": "_18_1_3b70190_1452719768376_850485_19512"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444566622852_238620_18803",
+    "name": "Technical Element",
+    "documentation": "A system element composed of  machinery and equipment developed from the application of engineering knowledge such as software, hardware and/or electrical engineering. [Created for this Context Model]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444684003291_413137_20828",
+    "name": "Concept of Operations",
+    "documentation": "Verbal and graphic statement, in broad outline, of an organization\u2019s assumptions or intent in regard to an operation or series of operations. (ISO/IEC 2011)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "Environment",
+        "refid": "_18_1_3b70190_1461169918766_308065_36584"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1444685287964_925692_21044",
+    "name": "Enabling System",
+    "documentation": "A system that complements a system-of-interest during its life cycle stages, but does not necessarily contribute directly to its function during its operation stage. (INCOSE 2012)\n\nAn enabling system may support a System-of-Interest at any stage of its life. This may include direct maintenance and support systems, test, installation or training systems or project organization enabling systems such as project teams or information resources. \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446034407391_754786_18085",
+    "name": "Concept Definition Stage",
+    "documentation": "Concept Definition is the set of systems engineering (SE) activities in which the problem space and the needs and requirements of the business or enterprise and stakeholders are closely examined. The activities are grouped and described as generic processes which include Mission Analysis and Stakeholder Needs and Requirements. Concept Definition begins before any formal definition of the system-of-interest (SoI) is developed. [3, SEBoK Concept Definition]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446034482305_372136_18139",
+    "name": "System Production Stage",
+    "documentation": "System Production involves the fabrication of instances or versions of a SoI and of associated after market spare parts. It also includes production quality monitoring and improvement; product or service acceptance activities; and continuous production process improvement. It may include low-rate initial production (LRIP) to mature the production process or to promote the continued preservation of the production capability for future spikes in demand. \n[3, SEBoK Generic Life Cycle Model]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446034490784_760163_18149",
+    "name": "System Realization Stage",
+    "documentation": "The System Realization stage begins when the key stakeholders decide that the SoI architecture and feasibility evidence are sufficiently low-risk to justify committing the resources necessary to develop and sustain the initial operational capability (IOC) or the single-pass development of the full operational capability (FOC). Activities include: construction of the developmental elements; integration of these with each other and with the non-developmental item (NDI) elements; verification and validation of the elements and their integration as it proceeds; and preparing for the concurrent production, support, and utilization activities. \n[3, SEBoK Generic Life Cycle Model]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446034490793_730552_18150",
+    "name": "System Definition Stage",
+    "documentation": "A set of core technical activities of systems engineering, including the activities that are completed primarily in the front-end portion of the system design. This consists of the definition of system requirements, the design of one or more logical and physical architectures, and analysis and selection between possible solution options. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446034641514_125271_18191",
+    "name": "Change Control Board",
+    "documentation": "\u201cA Change Control Board (CCB) with representatives from appropriate areas of the project is set up to effectively analyze, control and manage changes being proposed to the project.\u201d \u201cCCBs may be comprised of members from both the customer and the supplier.\u201d \u201dThe board includes representation from project management since the CCB decisions will have an impact on schedule, budget, and resources.\u201d [3, SEBoK, The Influence of Project Structure and Governance on Systems Engineering and Project Management Relationships]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446034641531_923452_18192",
+    "name": "System Utilization Stage",
+    "documentation": "System Utilization includes the use of the SoI in its context by operators, administrators, the general public, or systems above it in the system-of-interest hierarchy. It usually continues after Systems Support is terminated. \n[3, SEBoK Generic Life Cycle Model]\n",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446035117347_111497_18823",
+    "name": "Life Cycle Costs",
+    "documentation": "The total cost of implementation and ownership of a system over its useful life. It includes the cost of development, acquisition, operation, maintenance, support, and, where applicable, disposal. (Mooz, Forsberg, Cotterman 2003, 209)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446035511874_498527_18931",
+    "name": "Stakeholder Needs and Requirements Process",
+    "documentation": "    (1a) The requirements for a system that can provide the services needed by users and other stakeholders in a defined environment. (ISO/IEC/IEEE, 2015, section 6.4.1)\n\n    (1b) The stakeholder needs and requirements definition process identifies stakeholders, or stakeholder classes, involved with the system throughout its life cycle, and their needs. It analyzes and transforms these needs into a common set of stakeholder requirements that express the intended interaction the system will have with its operational environment and that are the reference against which each resulting operational capability is validated. The stakeholder requirements are defined considering the context of the system-of-interest with the interoperating systems and enabling systems. (ISO/IEC/IEEE,2015) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446035524087_490029_18953",
+    "name": "Mission Analysis Process",
+    "documentation": "Examination and definition of the primary and secondary purposes of a system. - modified from (Blanchard and Fabryky 2011) [3, SEBoK Glossary]\n\nMission Analysis focuses on the needs and requirements of business or enterprise \u2014 that is, on defining the problem or opportunity that exists (in what is often called the problem space or problem situation), as well as understanding the constraints on and boundaries of the selected system when it is fielded (in what is often called the solution space) [3, SEBoK Concept Definition]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446035524090_150538_18954",
+    "name": "System Requirements Analysis Process",
+    "documentation": "The purpose of the system requirements analysis process is to transform the stakeholder, user-oriented view of desired services and properties into a technical view of the product that meets the operational needs of the user. This process builds a representation of the system that will meet stakeholder requirements and that, as far as constraints permit, does not imply any specific implementation. It results in measurable system requirements that specify, from the supplier\u2019s perspective, what performance and non-performance characteristics it must possess in order to satisfy stakeholders' requirements (ISO 2015). \n[3, SEBoK System Requirements]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446037081766_684784_19950",
+    "name": "Logical Architecture Model Development Process",
+    "documentation": "The purpose of the Logical Architecture Model Development is to define, select, and synthesize a system\u2019s logical architecture model to provide a framework against which to verify that a future system will satisfy its system requirements in all operational scenarios, within which trade-offs between system requirements can be explored in developing such systems. [3, SEBoK Logical Architecture Model Development]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446037088966_267069_19966",
+    "name": "Architecture Definition  Process",
+    "documentation": "The purpose of the System Architecture process is to generate system architecture alternatives, to select one or more alternative(s) that frame stakeholder concerns and meet system requirements, and to express this in a set of consistent views. (ISO 2015). [3, SEBoK, System Architecture]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446037088986_99778_19967",
+    "name": "Physical Architecture Model Development Process",
+    "documentation": "The purpose of the Physical Architecture Model Development is to define, select, and synthesize a system physical architecture model which can support the logical architecture model. A physical architecture model will have specific properties to address stakeholder concerns or environmental issues and to satisfy system requirements. [3, SEBoK Physical Architecture Model Development]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446038380999_838147_20123",
+    "name": "System Verification Process",
+    "documentation": "The purpose of the verification process is to confirm that the system fulfills the specified design requirements. This process provides the information required to effect the remedial actions that correct non-conformances in the realized system or the processes that act on it - see ISO/IEC/IEEE 15288 (ISO/IEC/IEEE 2015). \n[3, SEBoK System Verification]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446038381041_25177_20124",
+    "name": "System Design Process",
+    "documentation": "The purpose of the System Design process is to provide sufficient detailed data and information about the system and its system elements to enable the implementation consistent with architectural entities as defined in models and views of the system architecture. ISO/IEC/IEEE 15288 (ISO 2015) \n[3, SEBoK System Design]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446038390595_714265_20153",
+    "name": "System Analysis Process",
+    "documentation": "The system analysis process is used to: (1) provide a rigorous basis for technical decision making, resolution of requirement conflicts, and assessment of alternative physical solutions (system elements and physical architectures); (2) determine progress in satisfying system requirements and derived requirements; (3) support risk management; and (4) ensure that decisions are made only after evaluating the cost, schedule, performance, and risk effects on the engineering or re-engineering of a system (ANSI/EIA 1998). This process is also called the decision analysis process by NASA (2007, 1-360) and is used to help evaluate technical issues, alternatives, and their uncertainties to support decision-making. [3, SEBoK System Analysis]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446038390598_162244_20154",
+    "name": "System Integration Process",
+    "documentation": "During the implementation process, engineers apply the design properties and/or requirements allocated to a system element to design and produce a detailed description. They then fabricate, code, or build each individual element using specified materials, processes, physical or logical arrangements, standards, technologies, and/or information flows outlined in detailed descriptions (drawings or other design documentation). A system element will be verified against the detailed description of properties and validated against its requirements. \n [3, SEBoK System Integration]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446038390600_593391_20155",
+    "name": "System Implementation Process",
+    "documentation": "During the implementation process, engineers apply the design properties and/or requirements allocated to a system element to design and produce a detailed description. They then fabricate, code, or build each individual element using specified materials, processes, physical or logical arrangements, standards, technologies, and/or information flows outlined in detailed descriptions (drawings or other design documentation). A system element will be verified against the detailed description of properties and validated against its requirements. [3, SEBoK System Implementation]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446038390603_186924_20156",
+    "name": "System Validation Process",
+    "documentation": "The purpose of the validation process is to provide objective evidence that the services provided by a system in use comply with stakeholder requirements and achieve its intended use in its intended operational environment (ISO/IEC/IEEE 15288 2015). The validation process performs a comparative assessment and confirms that the stakeholder requirements are correctly defined. Where variance is identified, it is recorded to guide future corrective actions. System validation is ratified by stakeholders (ISO/IEC/IEEE 15288 2015). \n[3, SEBoK System Validation]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446040712004_437853_21172",
+    "name": "System Retirement Stage",
+    "documentation": "The System Retirement stage is often executed incrementally as system versions or elements become obsolete or are no longer economical to support and therefore undergo disposal or recycling of their content. Increasingly affordable considerations make system re-purposing an attractive alternative. \n[3, SEBoK Generic Life Cycle Model]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446041305118_958993_21326",
+    "name": "System Maintenance Process",
+    "documentation": "The purpose of the maintenance process is to sustain the capability of a system to provide a service. This process monitors the system\u2019s capability to deliver services, records problems for analysis, takes corrective, adaptive, perfective, and preventive actions, and confirms restored capability.\n[3, SEBoK System Maintenance]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446041313998_187506_21348",
+    "name": "System Deployment Process",
+    "documentation": "As part of system deployment, on-site installation, check-out, integration, and testing must be carried out to ensure that the system is fit to be deployed into the field and/or put into an operational context. Transfer is the process that bridges the gap between qualification and use; it deals explicitly with the handoff from development to logistics, operations, maintenance, and support. \n[3, SEBoK System Deployment]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446041314003_747570_21349",
+    "name": "System Operation Process",
+    "documentation": "This process assigns personnel to operate the system and monitors the services and operator\u2010system performance. In order to sustain services, it identifies and analyzes operational problems in relation to agreements, stakeholder requirements, and organizational constraints (ISO/IEC/IEEE 2015). \n[3, SEBoK Operation of the System]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446050627745_217556_21969",
+    "name": "Disposal and Retirement Process",
+    "documentation": "According to the INCOSE Systems Engineering Handbook (2012), \u201cThe purpose of the disposal process is to remove a system element from the operation environment with the intent of permanently terminating its use; and to deal with any hazardous or toxic materials or waste products in accordance with the applicable guidance, policy, regulation, and statutes.\" In addition to technological and economical factors, the system-of-interest (SoI) must be compatible, acceptable, and ultimately address the design of a system for the environment in terms of ecological, political, and social considerations. \n[3, SEBoK Disposal and Retirement]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446052836565_761371_22295",
+    "name": "SE Interacting  with Industrial Enginnerring Processes",
+    "documentation": "<html>\n  <head>\n\t\t<style>\n\t\t\tp {padding:0px; margin:0px;}\n\t\t</style>\n\t</head>\n  <body>\n    <p>\nA systems engineer leverages industrial engineering knowledge to provide:\n\n    </p>\n\n    <ul>\n      <li>\nproduction planning and analysis\n\n      </li>\n      <li>\nsystems integration\n\n      </li>\n      <li>\nlifecycle planning and estimating\n\n      </li>\n      <li>\nchange analysis and management\n\n      </li>\n      <li>\ncontinuous process improvement\n\n      </li>\n      <li>\nquality assurance\n\n      </li>\n      <li>\nbusiness case analysis / return on investment\n\n      </li>\n      <li>\nengineering management\n\n      </li>\n      <li>\nsystems integration\n\n      </li>\n    </ul>\n    <p>\nIndustrial engineers complement systems engineers with knowledge in:\n\n    </p>\n\n    <ul>\n      <li>\nsupply chain management\n\n      </li>\n      <li>\nbudgeting and economic analysis\n\n      </li>\n      <li>\nproduction line preparation\n\n      </li>\n      <li>\nproduction\n\n      </li>\n      <li>\nproduction control\n\n      </li>\n      <li>\ntesting\n\n      </li>\n      <li>\nstaffing, organizing, directing\n\n      </li>\n      <li>\ncost, schedule, and performance monitoring\n\n      </li>\n      <li>\nrisk monitoring and control\n\n      </li>\n      <li>\noperations planning and preparation\n\n      </li>\n      <li>\noperations management\n\n      </li>\n    </ul>\n    <p>\n&#160;\n\n    </p>\n\n</body>\n</html>",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446069167929_203351_17070",
+    "name": "Configuration Management Process",
+    "documentation": "As a minimum the CM process should incorporate and detail the following tasks (SEI 2010):\n    -  identifying the configuration of selected work products that compose the baselines at given points in time\n    -  controlling changes to configuration items\n    -  building or providing specifications to build work products from the configuration management system\n    -  maintaining the integrity of baselines\n    -  providing accurate status and current configuration data to developers, end users, and customers\n[3, SEBoK, Configuration Management Process Overview]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      },
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446069176016_108515_17082",
+    "name": "Process",
+    "documentation": "    (1) A process is a set of interrelated or interacting activities which transforms inputs into outputs (ISO 9000:2005)\n    (2) A set of activities, methods, practices, and transformations that people use to develop and maintain systems and associated products. (SEI 2007)\n    (3) Process Purpose: high level objective of performing the process and the likely outcomes of effective implementation of the process. NOTE The implementation of the process should provide tangible benefits to the stakeholders. (ISO/IEC 12207:2008) \n    (4) Process Outcome: observable result of the successful achievement of the process purpose (ISO/IEC 12207:2008)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Element",
+        "refid": "_18_1_3b70190_1473623259155_777789_40492"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      },
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Concept Term Categories and Color Definitions",
+        "refid": "_18_1_3b70190_1461172090476_744631_37297"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446069176019_700291_17083",
+    "name": "Life Cycle Process",
+    "documentation": "    (1) A process is a set of interrelated or interacting activities which transforms inputs into outputs (ISO/IEC 2008). \n    (2) Life cycle: evolution of a system, product, service, project or other human-made entity from conception through retirement. (ISO/IEC 2008)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      },
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446305502290_432620_18995",
+    "name": "Business",
+    "documentation": "A business is an organization engaged in the trade of goods, services, or both to consumers. (Sullivan and Sheffrin 2003)[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446305508847_671168_19007",
+    "name": "Organization",
+    "documentation": "A group of people and facilities with an arrangement of responsibilities, authorities and relationships. (INCOSE 2011)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      },
+      {
+        "name": "Concept Term Categories and Color Definitions",
+        "refid": "_18_1_3b70190_1461172090476_744631_37297"
+      },
+      {
+        "name": "Organizations",
+        "refid": "_18_1_3b70190_1461172810034_543492_38767"
+      },
+      {
+        "name": "Organizations xx",
+        "refid": "_18_1_3b70190_1452813854742_511018_34765"
+      },
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446305508849_388984_19008",
+    "name": "Enterprise",
+    "documentation": "    (1) one or more organizations sharing a definite mission, goals, and objectives to offer an output such as a product or service. (ISO 15704 2000) \n\n    (2) An organization (or cross organizational entity) supporting a defined business scope and mission that includes interdependent resources (people, organizations and technologies) that must coordinate their functions and share information in support of a common mission (or set of related missions). (CIO Council 1999)\n\n    (3) the term enterprise can be defined in one of two ways. The first is when the entity being considered is tightly bounded and directed by a single executive function. The second is when organizational boundaries are less well defined and where there may be multiple owners in terms of direction of the resources being employed. The common factor is that both entities exist to achieve specified outcomes. (MOD 2004) \n\n    (4) A complex, (adaptive) socio-technical system that comprises interdependent resources of people, processes, information, and technology that must interact with each other and their environment in support of a common mission. (Giachetti 2010) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446307253841_921148_20140",
+    "name": "Engineering Discipline",
+    "documentation": "Engineering is the discipline, art, and profession that applies scientific theory to design, develop, and analyze technological solutions. In the contemporary era, it is generally considered to consist of the major basic branches of chemical engineering, civil engineering, electrical engineering, and mechanical engineering.There are numerous other engineering subdisciplines and interdisciplinary subjects that are derived from concentrations, combinations, or extensions of the major engineering branches. \n[8, Wikipedia, List of engineering branches]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446307259033_670352_20154",
+    "name": "Specialty Engineering",
+    "documentation": "Specialty Engineering is the collection of those narrow disciplines that are needed to engineer a complete system. (Elowitz, 2006)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446307259036_755124_20155",
+    "name": "Systems Engineering",
+    "documentation": "(1) Interdisciplinary approach governing the total technical and managerial effort required to transform a set of customer needs, expectations, and constraints into a solution and to support that solution throughout its life. (ISO/IEC/IEEE 2010) \n (2) An interdisciplinary approach and means to enable the realization of successful systems. It focuses on defining customer needs and required functionality early in the development cycle, documenting requirements, then proceeding with design synthesis and system validation while considering the complete problem:\n        Operations\n        Performance\n        Test\n        Manufacturing\n        Cost & Schedule\n        Training & Support\n        Disposal\nSystems engineering integrates all the disciplines and specialty groups into a team effort forming a structured development process that proceeds from concept to production to operation. Systems engineering considers both the business and the technical needs of all customers with the goal of providing a quality product that meets the user needs. (INCOSE 2012)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Process Change Request",
+        "refid": "_18_1_3b70190_1446739260402_400827_20751"
+      },
+
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      },
+      {
+        "name": "Organizations",
+        "refid": "_18_1_3b70190_1461172810034_543492_38767"
+      },
+      {
+        "name": "Organizations xx",
+        "refid": "_18_1_3b70190_1452813854742_511018_34765"
+      },
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446308672857_641428_20367",
+    "name": "Systems Engineering Management Plan",
+    "documentation": "The Systems Engineering Management Plan (SEMP) is the master planning document for the systems engineering technical elements. It defines SE processes and methodologies used on the project and the relationship of SE activities to other project activities. The SEMP must be consistent with, and evolve in concert, with the PMP. \n[3, SEBoK Relationships between Systems Engineering and Project Management]",
+    "appearsIn": [
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446308679364_700093_20383",
+    "name": "Project Management",
+    "documentation": "    (1) The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements. (PMI 2013)\n\n    (2) The collection of work activities concerned with planning and estimating, measuring and controlling, leading and coordinating, and managing risk factors for a project. (Fairley 2009)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446308679372_234920_20384",
+    "name": "Software Engineering",
+    "documentation": "    (1) The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software. (IEEE 1990) \n\n    (2) The study of approaches as in (1). (IEEE 1990)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446308686587_347915_20413",
+    "name": " Systems Engineering Plan ",
+    "documentation": "A systems engineering plan (SEP) is a \"living\" document that captures a program's current and evolving systems engineering strategy and its relationship with the overall program management effort. The SEP purpose is to guide all technical aspects of the program. It should be established early in the Materiel Solution Analysis phase and updated continually. (DAU 2012)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446308686590_144848_20414",
+    "name": "Project Management Plan",
+    "documentation": "The Project Management Plan (PMP) is the master planning document for the project. It describes all activities, including technical activities, to be integrated and controlled during the life of the program. \n[3, SEBoK Relationships between Systems Engineering and Project Management]",
+    "appearsIn": [
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446308686593_774832_20415",
+    "name": "Customer",
+    "documentation": "The organization or person that receives a product or service. (ISO/IEC/IEEE 2015)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446308686601_693010_20416",
+    "name": "Industrial Engineering",
+    "documentation": "The design, improvement and installation of integrated systems of people, materials, information, equipment and energy. It draws upon specialized knowledge and skill in the mathematical, physical, and social sciences together with the principles and methods of engineering analysis and design, to specify, predict, and evaluate the results to be obtained from such systems (IIE 1992).\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446317126253_7451_21553",
+    "name": "Manufacturability  Engineering",
+    "documentation": "Manufacturability and producibility is an engineering specialty. The machines and processes used to build a system must be architected and designed. A systems engineering approach to manufacturing and production is necessary because manufacturing equipment and processes can sometimes cost more than the system being built (Maier and Rechtin 2002). Manufacturability and producibility can be a discriminator between competing system solution concepts and therefore must be considered early in the study period, as well as during the maturing of the final design solution.\n[3, SEBoK Manufacturability and Producibility]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446317131479_618335_21567",
+    "name": "RAM Engineering",
+    "documentation": "Reliability, availability, and maintainability (RAM) are three system attributes that are of tremendous interest to systems engineers, logisticians, and users. Collectively, they affect economic life-cycle costs of a system and its utility. \n[3, SEBoK Reliability, Availability, and Maintainability]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446317131482_21219_21568",
+    "name": "Safety Engineering",
+    "documentation": "System safety engineering focuses on identifying hazards, their causal factors, and predicting the resultant severity and probability. The ultimate goal of the process is to reduce or eliminate the severity and probability of the identified hazards, and to minimize risk and severity where the hazards cannot be eliminated. MIL STD 882E defines a hazard as \"A real or potential condition that could lead to an unplanned event or series of events (i.e., mishap) resulting in death, injury, occupational illness, damage to or loss of equipment or property, or damage to the environment.\" (DoD 2012). \n[3, SEBoK Safety Engineering]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446317140381_20098_21587",
+    "name": "Security Engineering",
+    "documentation": "Security engineering is concerned with building systems that remain secure despite malice or error. It focuses on the tools, processes, and methods needed to design and implement complete systems that proactively and reactively mitigate vulnerabilities. Security engineering is a primary discipline used to achieve system assurance.\n\nThe term System Security Engineering (SSE) is used to denote this specialty engineering field and the US Department of Defense define it as: \"an element of system engineering that applies scientific and engineering principles to identify security vulnerabilities and minimize or contain risks associated with these vulnerabilities\" (DODI5200.44, 12). [3, SEBoK Security Engineering]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446317140384_397894_21588",
+    "name": "EMI/C Engineering",
+    "documentation": "Electromagnetic Interference (EMI) is the disruption of operation of an electronic device when it is in the vicinity of an electromagnetic field in the radio frequency (RF) spectrum. Many electronic devices fail to work properly in the presence of strong RF fields. The disturbance may interrupt, obstruct, or otherwise degrade or limit the effective performance of the circuit. The source may be any object, artificial or natural, that carries rapidly changing electrical currents.\n\nElectromagnetic Compatibility (EMC) is the ability of systems, equipment, and devices that utilize the electromagnetic spectrum to operate in their intended operational environments without suffering unacceptable degradation or causing unintentional degradation because of electromagnetic radiation or response. It involves the application of sound electromagnetic spectrum management; system, equipment, and device design configuration that ensures interference-free operation; and clear concepts and doctrines that maximize operational effectiveness (DAU 2010, Chapter 7).\nContents\n[3, SEBoK Electromagnetic Interference/Electromagnetic Compatibility]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446317140392_549434_21589",
+    "name": "Resilience Engineering",
+    "documentation": "The purpose of resilience engineering and architecting is to achieve full or partial recovery of a system following an encounter with a threat that disrupts the functionality of that system. Threats can be natural, such as earthquakes, hurricanes, tornadoes, or tsunamis. Threats can be internal and human-made such as reliability flaws and human error. Threats can be external and human-made, such as terrorist attacks. Often, a single incident is the result of multiple threats, such as a human error committed in the attempt to recover from another threat. \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446317140394_351298_21590",
+    "name": "System Assurance Engineering",
+    "documentation": "NATO AEP-67 (Edition 1), Engineering for System Assurance in NATO Programs, defines system assurance as:\n\n    \u2026the justified confidence that the system functions as intended and is free of exploitable vulnerabilities, either intentionally or unintentionally designed or inserted as part of the system at any time during the life cycle... This confidence is achieved by system assurance activities, which include a planned, systematic set of multi-disciplinary activities to achieve the acceptable measures of system assurance and manage the risk of exploitable vulnerabilities. (NATO 2010, 1)\n[3, SEBoK System Assurance]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446471875197_359108_25882",
+    "name": "Environmental Engineering",
+    "documentation": "Environmental engineering addresses four issues that arise in system design and operation. They include: (1) design for a given operating environment, (2) environmental impact, (3) green design, and (4) compliance with environment regulations. \n[3, SEBoK Environmental Engineering]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446471925801_704521_25896",
+    "name": "Affordability Engineering",
+    "documentation": "A system is affordable to the degree that system performance, cost, and schedule constraints are balanced over the system life, while mission needs are satisfied in concert with strategic investment and organizational needs (INCOSE 2011). Design for affordability is the practice of considering affordability as a design characteristic or constraint. \n[3, SEBoK Affordability]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446471925805_400028_25897",
+    "name": "Human Systems Integration Engineering",
+    "documentation": "Human systems integration (HSI) is an interdisciplinary technical and management process for integrating human considerations with and across all system elements, an essential enabler to systems engineering practice. Human activity considered by HSI includes operating, maintaining, and supporting the system. HSI also considers training and training devices, as well as the infrastructure used for operations and support (DAU 2010). HSI incorporates the following domains as integration considerations: manpower, personnel, training, human factors engineering, occupational health, environment, safety, habitability, and human survivability. \n[3, SEBoK Human Systems Integration]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446556340188_811700_26281",
+    "name": "Configuration Management",
+    "documentation": "A discipline applying technical and administrative direction and surveillance to: identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify compliance with specified requirements. (ISO/IEC/IEEE 2010)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446556401282_581024_26338",
+    "name": "Discipline",
+    "documentation": "A branch of knowledge, typically one studied in higher education. [Google Definition]\n\n Discipline is when one uses reason to determine the best course of action that opposes one's desires [8, Wikipedia,  Discipline]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446569157531_54836_26614",
+    "name": "Baseline",
+    "documentation": "A specification or product that has been formally reviewed and agreed upon, that thereafter serves as the basis for further development, and that can be changed only through formal change control procedures. (ISO/IEEE 2008)\n[3, SEBoK Glossary]\n\nformally approved version of a configuration item, regardless of media, formally designated and fixed at a\nspecific time during the configuration item's life cycle\n{IEEE 828-2012} \n[4, 15288 4.1.10]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446569186112_762094_26663",
+    "name": "Configuration Item",
+    "documentation": "A hardware, software, or composite item at any level in the system hierarchy designated for configuration management. (The system and each of its elements are individual CI's) CIs have four common characteristics: 1.  Defined functionality 2.  Replaceable as an entity 3.  Unique specification 4.  Formal control of form, fit, and function [10, INCOSE Handbook, Appendix C]  Aggregation of hardware, software, or both, that is designated for configuration management and treated as a single entity in the configuration management process [4, 15288, Section 4.1, definitions]  CIs can be any type of artifact including documents, test results, schedules, plans, requirements, specifications, instructions, processes, etc.  ",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446665460278_263029_20519",
+    "name": "Hardware Engineering",
+    "documentation": " The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of hardware; that is, the application of engineering to hardware elements. [Adapted from SW Engineering definition]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446665470625_680531_20541",
+    "name": "Electrical Engineering",
+    "documentation": " The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of electrical and electronic elements; that is, the application of engineering to electrical and electronic elements. [Adapted from SEBoK SW Engineering definition]",
+    "appearsIn": [
+      {
+        "name": "Disciplines",
+        "refid": "_18_1_3b70190_1461171661819_806644_34470"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446761376606_153803_52137",
+    "name": " Principle",
+    "documentation": "    1) a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning. (Oxford Dictionaries Online 2012)\n\n    2) a rule or belief governing one\u2019s behavior. (Oxford Dictionaries Online 2012)\n[3, SEBoK Glossary] ",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446761381161_588321_52239",
+    "name": "Work Product",
+    "documentation": "A deliverable or outcome (such as a training course or a building) that must be produced to complete a project and achieve its objectives. \n[13, BusinessDictionary.com]\n",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Concept Term Categories and Color Definitions",
+        "refid": "_18_1_3b70190_1461172090476_744631_37297"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446831730694_228712_58529",
+    "name": " Stage",
+    "documentation": "A period within the life cycle of an entity that relates to the state of its description or realization. (ISO/IEC/IEEE 15288)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446832512813_405102_58679",
+    "name": "Structure",
+    "documentation": "(1) (architectural structure) A physical or logical layout of the components of a system design and their internal and external connections. (ISO/IEC 2009, 1) \n\n(2) (Data structure) a physical or logical relationship among data elements, designed to support specific data manipulation functions. (ISO/IEC 2009, 1) \n[3, SEBoK Glossary]\n\n    (3) (Generalization structure) a connection between a superclass and one of its more specific, immediate subclasses. (IEEE 1320.2-1998)\n\n    (4) The static existence of the system; namely its elements and their relationships. (Created for SEBoK)\n\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446833928099_112326_59160",
+    "name": "Iteration",
+    "documentation": "The action or a process of iterating or repeating an action or process; a procedure in which repetition of a sequence of operations yields results successively closer to a desired result. (Oxford English Dictionary)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446833942954_99901_59182",
+    "name": "Decision Gate",
+    "documentation": "    (1) A decision gate is an approval event (often associated with a review meeting). Entry and Exit criteria are established for each decision gate; continuation beyond the decision gate is contingent on the agreement of the decision-makers. (INCOSE 2011 p 362)\n\n    (2) A preplanned management event in the project cycle to demonstrate accomplishments, approve and baseline results, and approve the approach for continuing the project. (Also known as a control gate.) (Forsberg 2005, p 428)\n[3, SEBoK Glossary]\n\nSee [INCOSE Handbook ] section 3.2.2 for a full description and attributes.",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446833942958_96858_59183",
+    "name": "Event",
+    "documentation": "A thing that happens, especially one of importance.[Google on-line Dictionary]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446835774274_834821_59418",
+    "name": "Generic Life Cycle Model",
+    "documentation": "There is no single \u201cone-size-fits-all\u201d system life cycle model that can provide specific guidance for all project situations. This Generic Life Cycle Model is adapted from (Lawson 2010, ISO 2015, and ISO 2010), provides a generic life cycle model that forms a starting point for the most common versions of pre-specified, evolutionary, sequential, opportunistic, and concurrent life cycle processes. [3, SEBoK, Generic Life Cycle Model]",
+    "appearsIn": [
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1446835778508_977758_59428",
+    "name": "Life Cycle Model",
+    "documentation": "A framework of processes and activities concerned with the life cycle that may be organized into stages, which also acts as a common reference for communication and understanding (ISO/IEC 15288)\n[3, SEBoK Glossary]\n\nA life cycle model identifies the major stages that a specific SoI goes through, from its inception to its retirement. Life cycle models are generally implemented in development projects, and are strongly aligned with management planning and decision making. \n[3, SEBoK, Introduction to Life Cycle Processes",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Generic Life Cycle Model",
+        "refid": "_18_1_3b70190_1461170866205_921723_42787"
+      },
+
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447002715320_987771_65582",
+    "name": "Development Baseline",
+    "documentation": "Developmental Baseline represents the state of work products amid development.  [8, Wikipedia, Baseline (configuration management)]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447002732405_604844_65596",
+    "name": "Project Baseline",
+    "documentation": "Product Baseline  contains the releasable contents of the project [8, Wikipedia, Baseline (configuration management)]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447002732408_517312_65597",
+    "name": "Fuctional Baseline",
+    "documentation": "Functional Baseline occurs when the initial specifications established; contract, etc.  [8, Wikipedia, Baseline (configuration management)]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447002740327_555423_65618",
+    "name": "Allocated Baseline",
+    "documentation": "Allocated Baseline represents the state of work products once requirements are approved. [8, Wikipedia, Baseline (configuration management)]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447002740335_256253_65619",
+    "name": "Concept Costs",
+    "documentation": "Costs for the initial concept development efforts. Can usually be estimated based on average manpower and schedule spans and include overhead, general and administrative  (G&A) costs, and fees, as necessary.[10, INCOSE Handbook 10.1.3 ]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447002740355_63054_65620",
+    "name": "Work Breakdown Structure",
+    "documentation": "The work breakdown structure is the decomposition of a project into smaller components and provides the necessary framework for detailed cost estimating and control. Includes a data dictionary. The cost for and the description of the physical end products ( hardware and software) may be captured in a product breakdown structure (PBS). The PBS supports bottoms up and algorithmic (parametric) cost estimating (see 10.1.3). The PBS is a key ingredient of commercial cost estimating tools\n[10, INCOSE Handbook Appendix E]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447110227724_968801_67372",
+    "name": "Emergence ",
+    "documentation": "The principle that whole entities exhibit properties which are meaningful only when attributed to the whole, not to its parts. Every model of a human activity system exhibits properties as a whole entitity which derive from its component activities and their structure, but cannot be reduced to them. (Checkland 1999) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447110232245_106834_67384",
+    "name": "Complexity",
+    "documentation": "    (1) The degree to which a system's design or code is difficult to understand because of numerous components or relationships among components (ISO/IEC 2009)\n\n    (2) Consisting of interdependent, diverse entities that respond to their local and global environments (Page 2009)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447110232261_817654_67385",
+    "name": "Concept",
+    "documentation": "An abstraction; a general idea inferred or derived from specific instances. (Oxford Dictionaries Online 2012)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447111300930_220927_67763",
+    "name": "Operational Concept",
+    "documentation": "Operational Concept: verbal and graphic statement of an organization\u2019s assumptions or intent in regard to an operation or series of operations of a system or a related set of systems. (ANSI/AIAA G-043-199)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447370470851_111794_71456",
+    "name": "Response",
+    "documentation": "[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447370470867_603476_71457",
+    "name": "Request",
+    "documentation": "[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Examine Assigned Stereotypes Industry Reference Table",
+        "refid": "_18_1_3b70190_1453128143903_766330_43615"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434880209_764244_18197",
+    "name": "Change Request",
+    "documentation": "Requests to update any formal baselines that have been established. In many cases, the need for change requests is identified during the project assessment and control process, Can originate from any life cycle process.\n[10, INCOSE Handbook, Appendix E]  \nThe INCOSE Handbook called this a Project Change Request. The term Change Request is also used throughout the document and seems to be more general and covers a broader originating scope, other than just when a project is active. \nThere are many other terms used to request changes including  ECR, ECP, CCR, RFC and RFV. They all are specializations of this generic term Change Request. The 15288 only uses Change Request.",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434890599_533130_18217",
+    "name": "Production Costs",
+    "documentation": "Usually driven by tooling and material cost for large volume systems. Labor cost estimates a prepared by estimating the cost of the first production unit and then applying learning curve formula to determine the reduced costs of subsequent production units.\n[10, INCOSE Handbook 10.1.3 ]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434890599_839998_18218",
+    "name": "Development Costs",
+    "documentation": "Costs for the system development efforts. Similar to concept costs, can usually be estimated based on average manpower and schedule spans and include overhead, G&A costs, and fees, as necessary.\n[10, INCOSE Handbook 10.1.3 ]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434942379_821294_18315",
+    "name": "Specification Change Notice",
+    "documentation": "Used to propose, transmit, and record chnages to baseline specifications. [10, INCOSE Handbook, section 5.5.2]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434942382_49935_18316",
+    "name": "Change Control Process",
+    "documentation": "Configuration change management, or change control, manages the collection of the items to be baselined and maintains the integrity of the CI's identified by facilitating approved changes (e.g. via ECRs) and preventing incorporation of unapproved changes into the baseline. Change Control should be in effect beginning at project initiation.\n[10, INCOSE Handbook, section 5.5.2.2]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434954786_358710_18337",
+    "name": "Configuration Control Board",
+    "documentation": "Configuration Control Board (CCB) provides a central a central point to coordinate, review, evaluate, and approve all proposed changes to baselined documentation and configurations and configuration, including hardware, software and firmware. The review board is composed of members from the various disciplines, including SE, software and hardware engineering, project management, product assurance, and configuration management. [10, INCOSE Handbook, section 5.5.2.2]\n\nThe CCB can contain members from all relevant stakeholders. Some additional members can also be from all engineering disciplines, Manufacturing and Support, \n",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434954801_335791_18338",
+    "name": "Retirement Costs",
+    "documentation": "Retirement costs - The cost for removing the system from operation and includes an estimate of the trade-in or selvage costs. Could be positive or negative and should be mindful of environmental impact to dispose.\n[10, INCOSE Handbook 10.1.3 ]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447434954801_638622_18339",
+    "name": "Utilization and Support Costs",
+    "documentation": "Typically based on future assumptions for ongoing operation and maintenance of the system, for example, fuel costs, manning levels, and spare parts.\n[10, INCOSE Handbook 10.1.3 ]",
+    "appearsIn": [
+      {
+        "name": "Life Cycle",
+        "refid": "_18_1_3b70190_1461170943349_427137_44453"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447678545507_595037_17525",
+    "name": "Scenario",
+    "documentation": "Single thread of behavior [10, 4.2.2.4,  Stakeholder Needs, Develop the Life Cycle Concepts]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Change Color of Stereotyped Elements",
+        "refid": "_18_1_3b70190_1446844158257_334407_61965"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447678853943_793290_17783",
+    "name": "Physical Model",
+    "documentation": "A model made of tangible components. (Sage and Rouse 2009) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447679328632_502679_17873",
+    "name": "System Architecture",
+    "documentation": "System architecture deals with fundamental principles, concepts, properties, and characteristics and their incorporation into the system of interest. Architecture definition has more uses than as merely a driver (or part of) design. Refer to ISO/IEC/IEEE 42010:2011 for more information about Architecture description and the uses and nature of architecture. [4, 15288 Section 6.4.4]\n\n    (1) fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution (ISO/IEC/IEEE 2015, Section 4.5) \n\n    (2) The organizational structure of a system or component; the organizational structure of a system and its implementation guidelines. (ISO/IEC 2009, 1) \n\n    (3) Fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution. (ISO/IEC 2011, section 3.2) \n[3, SEBoK Glossary, Architecture]\n\n\n\"OMG 2010 is normative - \u201cThe organizational structure and associated behavior of a system. An architecture can be recursively decomposed into parts that interact through interfaces, relationships that connect parts, and constraints for assembling parts.\u201d  \n[3, SEBoK Glossary, Architecture, see discussion]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447681913566_473181_19970",
+    "name": "Behavioral Model",
+    "documentation": "A behavioral model is an arrangement of functions and interfaces (internal and external) that defines how the system or its elements act under conditions to sustain the operational scenarios, including the execution sequencing and concurrency, the conditions for behavioral change and the performance. A behavioral model can be described with a set of inter-related scenarios. This includes identifying the behavioral elements (modes/states, transitions, trigger events, operational scenarios, etc.) through the life cycle.\n[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447681950081_218109_20039",
+    "name": "Functional Model",
+    "documentation": "A functional model of the system is a representation of a set of functions that defines the transformations of inputs into outputs performed by the system to achieve its mission or purpose. These functions are determined by how the system is expected to behave when used as intended. Consequently, every system function is associated with an interaction between the system and its environment. Functional, performance, non-functional, and constraint requirements are usually analyzed to determine functions and input-output flows. When functions are associated with system elements, the design definition process will need to determine if each system element has been sufficiently specified to build or buy it. If the system element must be further resolved in order to achieve this sufficiency then the functions associated with the system element will also need be further resolved and properly associated with the sub elements. Typically there are multiple ways to decompose the functions that contributes to the definition of multiple candidate architectures.\n[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447682128416_509685_20165",
+    "name": "Temporal Model",
+    "documentation": "A temporal model of the system is a representation expresses how the time is taken into account in the behavior the system or its elements that present levels of execution frequency of functions (strategic level, tactical level, operational monitoring level, regulation level, etc.) corresponding to levels of decision that enable humans and program logic to monitor and control the system operations. This includes identifying temporal elements (duration, frequency, response time, triggers, timeout, stop conditions, etc.) from the operational concept and system requirements.\n[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447682143888_415193_20200",
+    "name": "Structural Model",
+    "documentation": "A structural model of the system is a representation that shows the arrangement of elements with respect to each other and where necessary shows the interfaces between elements and with external entities. Such a model enables consolidating or identifying physical interfaces between system elements in a level of the system hierarchy and between levels of the system hierarchy, as well as those with external entities to the concerned system (in its environment/context).\n[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447682155632_211548_20235",
+    "name": "Mass Model",
+    "documentation": "A mass model of the system is a representation showing the position of physical volumes of system elements or of their parts in the case these are geographically distributed. It could record the expected or actual mass properties to help determine such mass properties as center of gravity and dynamic behavior of motion. It can also be used to help allocate total system mass to its elements.\n[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447682251062_178297_20390",
+    "name": "Layout Model",
+    "documentation": "A layout model of the system is a representation of where the system elements are placed geographically against each other. In model railroading, a layout model is a diorama containing scale track for operating trains. An automobile layout describes where on the vehicle the engine and drive wheels are found.\n[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447682262790_647204_20423",
+    "name": "Network Model",
+    "documentation": "A network model defines an arrangement of nodes and links to help understand how resources traverse from one node to another. Resources flowing in a network can be mass, energy, data, people, etc. A network model can be used to determine throughput, latency, congestion points, etc. A network model is sometimes modeled along with a protocol stack to understand how layers in a network interact vertically up and down the stack.[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447682275858_481702_20468",
+    "name": "Other Life Cycle Models",
+    "documentation": "Stakeholder life cycle concerns such as maintenance, evolution, disposal, potential changes of environment, or obsolescence management, and non-functional requirements, are addressed defining architectural characteristics such as modularity, relative independence, upgradeability, adaptation to several environments,\nlevel of effectiveness, reliability, robustness, scalability, or resistance to environmental conditions, etc.\nOther necessary models could include some of these characteristics or other critical quality characteristics. For example, a reliability model could drive the functional level of the Failure Modes and Effects Analysis (FMEA or FMECA) to help deduce potential architectural mitigations to minimize operational risks (mission loss, safety or security) related to critical concerns and functions.\nDetermination of which models to use in system definition can be based on examination of stakeholder concerns. The models and the resulting views can be used to express how the system architecture and design addresses their concerns and to gain better understanding of their actual needs, wants and expectations.\nFurthermore, models may be used in other life cycle processes besides architecture and design definition. Model-Based Systems Engineering (MBSE) is the formalized application of modeling to support system requirements, architecture, design, analysis, verification and validation activities throughout the life cycle.\n[4, 15288, F3]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447697525670_349841_21296",
+    "name": "Requirement",
+    "documentation": "Statement that identifies a product* or process operational, functional, or design characteristic or constraint, which is unambiguous, testable or measurable, and necessary for product or process acceptability. (ISO/IEC 2007)\n\n    *includes product, service, or enterprise.[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "Technical Measurement",
+        "refid": "_18_1_3b70190_1461174335042_551859_54266"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447697525689_885509_21297",
+    "name": "Engineering Change Proposal",
+    "documentation": "<html>\n  <head>\n\t\t<style>\n\t\t\tp {padding:0px; margin:0px;}\n\t\t</style>\n\t</head>\n  <body>\n    <p>\nAn engineering change proposal (ECP) is the management tool used to propose a configuration change to a configuration item (CI) and the system's baselined performance requirements and configuration documentation established <b>during design and development of the system</b> (DoD 2001)\n\n    </p>\n\n    <p>\n[3, SEBoK Glossary]\n\n    </p>\n\n</body>\n</html>",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447872578307_847946_16762",
+    "name": "System Arhitecture Model",
+    "documentation": "A model is a simplified representation of a system at some particular point in time or space intended to promote understanding of the real system. As an abstraction of a system, it offers insight about one or more of the system's aspects, such as its function, structure, properties, performance, behavior, or cost. \n[3, SEBoK, Representing Systems with Models]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "SECM - Analysis Concepts",
+        "refid": "_18_1_3b70190_1461171831605_337789_36025"
+      },
+      {
+        "name": "ACM and SECM Integration",
+        "refid": "_18_1_3b70190_1461173895008_821833_51408"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447884065524_400256_17848",
+    "name": "Model",
+    "documentation": "    (1) A physical, mathematical, or otherwise logical representation of a system, entity, phenomenon, or process. (DoD 1998)\n\n    (2) A representation of one or more concepts that may be realized in the physical world. (Friedenthal, Moore, Steiner 2009)\n\n    (3) A simplified representation of a system at some particular point in time or space intended to promote understanding of the real system. (Bellinger 2004)\n\n    (4) An abstraction of a system, aimed at understanding, communicating, explaining, or designing aspects of interest of that system (Dori 2002)\n\n    (5) A selective representation of some system whose form and content are chosen based on a specific set of concerns. The model is related to the system by an explicit or implicit mapping. (Object Management Group 2010)[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447961436871_328842_21463",
+    "name": "System Requirement",
+    "documentation": "What the system needs to do, how well, under what conditions, as required to meet project and design constraints. Includes types of requirements such as functional, performance, interface, behavior (e.g. states and moods, stimulus responses, fault and failure handling), operational conditions (e.g. safety dependability, human factors, environmental conditions), transportation, storage, physical constraints, realization, immigration, verification, validation, production, maintenance, disposal constraints, and regulation. System requirements may be captured in a document called the System Requirements Specification (SyRS) or just System Specification. This includes the requirements at any level in the system hierarchy.\n[10, INCOSE Handbook, Appendix E: Input/Output Descriptions ]",
+    "appearsIn": [
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447961443333_876350_21475",
+    "name": "Architecture Framework",
+    "documentation": "An architecture framework establishes a common practice for creating, interpreting, analyzing and using architecture descriptions within a particular domain of application or stakeholder community. (ISO/IEC/IEEE 2007) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1447961443336_887778_21476",
+    "name": "Interface",
+    "documentation": "    1. A shared boundary between two functional units, defined by various characteristics pertaining to the functions, physical signal exchanges, and other characteristics. (ISO/IEC 1993)\n\n    2. A hardware or software component that connects two or more other components for the purpose of passing information from one to the other. (ISO/IEC 1993) \n\n    3. To connect two or more components for the purpose of passing information from one to the other. (ISO/IEC/IEEE 200)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Interfaces Concepts from Industry Reference Model",
+        "refid": "_18_1_3b70190_1453390290844_917557_50805"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448043185114_278804_24128",
+    "name": "Stakeholder Requirement",
+    "documentation": "    (1a) The requirements for a system that can provide the services needed by users and other stakeholders in a defined environment. (ISO/IEC/IEEE, 2015, section 6.4.1)\n\n    (1b) The stakeholder needs and requirements definition process identifies stakeholders, or stakeholder classes, involved with the system throughout its life cycle, and their needs. It analyzes and transforms these needs into a common set of stakeholder requirements that express the intended interaction the system will have with its operational environment and that are the reference against which each resulting operational capability is validated. The stakeholder requirements are defined considering the context of the system-of-interest with the interoperating systems and enabling systems. (ISO/IEC/IEEE,2015) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448043185120_350847_24129",
+    "name": "Stakeholder Need",
+    "documentation": "Needs determined from communications with internal and external stakeholders in understanding their expectations, needs, requirements, values, problems, issues, and perceived risks and opportunities. [4, Appendix E, Input and Output Descriptions]",
+    "appearsIn": [
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448056342849_957611_26880",
+    "name": "System Element Definitions",
+    "documentation": "Design characteristics description of the system elements contained in the system; the description depends on the implementation technology (e.g. data sheets, databases, documents, exportable data files) \n[4, INCOSE Appendix E: Input/Output Descriptions]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448056350825_906588_26898",
+    "name": "State",
+    "documentation": "    (1) The values of key system element qualities or properties at a given time. (Ackoff 1971)\n\n    (2) A description of the current or future potential, or health of the system. (Ackoff 1971)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448056350840_130417_26899",
+    "name": "Traceability",
+    "documentation": "The degree to which a relationship can be established between two or more products of the development process, especially products having a predecessor-successor or master-subordinate relationship to one another (IEEE 1233-1998 (R2002) IEEE Guide for Developing System Requirements Specifications, 3.1.9) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448222703876_536840_16625",
+    "name": "Pattern",
+    "documentation": "     (1) An expression of an observed regularity. (Alexander 1979)\n\n    (2) A representation of similarities in a set or class of problems, solutions, or systems. (Alexander 1979)\n\n    (3) Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice. (Alexander 1979)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448222717829_670437_16642",
+    "name": "Element Requirement",
+    "documentation": "What the system element needs to do, how well, under what conditions, as required to contribute to meeting the system  and design constraints. Includes types of requirements such as functional, performance, interface, behavior, operational conditions, transportation, storage, physical constraints, realization, immigration, verification, validation, production, maintenance, disposal constraints, and regulation.\n[For SECM, Adapted from INCOSE definition for System Requirement]",
+    "appearsIn": [
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      },
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448222717829_843121_16641",
+    "name": "Derived Requirement ",
+    "documentation": "Constraint stated during the design activities which arise as a result of the selected solution (for example, a necessary mean or resource related to a technology, or an interface between two components of different sub-systems). (Faisandier 2012) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Requirement Traceability",
+        "refid": "_18_1_3b70190_1452723969050_210329_28248"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448304208141_351605_27934",
+    "name": "Operational Modes",
+    "documentation": "An operational situation/configuration of a system characterized by its active functions. Inside an operational mode the system can perform specific operational scenarios, and so activate the corresponding functions. (same as state) (Faisandier 2012)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448304208141_357214_27935",
+    "name": "Physical Architecture",
+    "documentation": "    (1) A physical architecture is an arrangement of physical elements (system elements and physical interfaces) which provides the design solution for a product, service, or enterprise, and is intended to satisfy logical architecture elements and system requirements. It is implementable through technologies. (ISO/IEC 2010)\n\n    (2) An arrangement of physical elements which provides the design solution for a consumer product or life-cycle process intended to satisfy the requirements of the functional architecture and the requirement baseline. (ISO/IEC 2007)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448304216343_732_27952",
+    "name": "Temporal Architecture",
+    "documentation": "A temporal classification of the functions of a system according to the frequency level of execution. Temporal architecture includes the definition of synchronous and asynchronous aspects of functions. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448304216358_298837_27953",
+    "name": "Behavioral Architecture",
+    "documentation": "     (1) An arrangement of functions and their sub-functions and interfaces (internal and external) which defines the execution sequencing, conditions for control or data-flow and the performance requirements to satisfy the requirements baseline. (ISO/IEC 2010) \n\n    (2) A set of inter-related scenarios. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448304216358_937529_27954",
+    "name": "Logical Architecture",
+    "documentation": "The logical architecture of a system is composed of a set of related technical concepts and principles that support the logical operation of the system. It includes a functional architecture, a behavioral architecture, and a temporal architecture. (Created for SEBoK) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448304216390_533822_27955",
+    "name": "Functional Architecture",
+    "documentation": "A functional architecture is a set of functions and their sub-functions that defines the transformations of input flows into output flows performed by the system to achieve its mission. (Created for SEBoK) [3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448308770512_939018_29620",
+    "name": "Output",
+    "documentation": "When used as a noun:\n\n    (1) Data transmitted to an external destination. (ISO/IEC 2009, 1) \n\n    (2) Pertaining to a device, process, or channel involved in transmitting data to an external destination. (ISO/IEC 2009, 1) \n\n    (3) Pertaining to data transmitted to an external destination. (ISO/IEC 2009, 1) \n\nWhen used as a verb:\n\n    (4) To transmit data to an external destination. (ISO/IEC 2009, 1)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Interfaces Concepts from Industry Reference Model",
+        "refid": "_18_1_3b70190_1453390290844_917557_50805"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448308770528_407297_29621",
+    "name": "Input",
+    "documentation": "When used as a noun:\n\n    (1) Data received from an external source. (ISO/IEC 2009) \n\n    (2) Pertaining to a device, process, or channel involved in receiving data from an external source. (ISO/IEC 2009) \n\n    (3) In an IDEF0 model, that which is transformed by a function into output. (ISO/IEC 2009) \n\n    (4) Any item, whether internal or external to the project that is required by a process before that process proceeds. (ISO/IEC 2009) \n\n    (5) Data entered into an information processing system or any of its parts for storage or processing. (ISO/IEC 2009) \n\nWhen used as a verb:\n\n    (6) The process of entering data into an information processing system or any of its parts for storage or processing. (ISO/IEC 2009) \n\n    (7) To receive data from an external source; (ISO/IEC 2009) \n\n    (8) To provide data from an external source. (ISO/IEC 2009) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "Interfaces Concepts from Industry Reference Model",
+        "refid": "_18_1_3b70190_1453390290844_917557_50805"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448308779340_472869_29640",
+    "name": "Transition of Modes",
+    "documentation": "A transition of mode characterizes the transition (change of state) between two successive Operational Modes of a system. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448308779340_61351_29638",
+    "name": "Logical Archirecture Model",
+    "documentation": "The logical architecture model of a engineered system of interest (SoI) is composed of a set of related technical concepts and principles that support the logical operation of the system. It may include a functional architecture view, a behavioral architecture view, and a temporal architecture view. Other additional views are suggested in architecture frameworks, depending on the domain. [3, SEBoK, Logical Architecture Model Development]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448308779340_883929_29639",
+    "name": "Operational Scenario",
+    "documentation": "    (1) Description of an imagined sequence of events that includes the interaction of the product or service with its environment and users, as well as interaction among its product or service components. (ISO/IEC 2011)\n\n    (2) A set of actions or functions representing the dynamic of exchanges between the functions allowing the system to achieve a mission or a service. (Created for SEBoK)\n\n    (3) Stories which describe the expected utilization of the future system in terms of actions. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448308779356_672179_29641",
+    "name": "Input-Output Flow",
+    "documentation": "An input or an output, or a trigger of a function (used for input-output flow, control flow). An Input-Output Flow can be made of material and/or energy, and/or information. (Faisandier 2012)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Architecture",
+        "refid": "_18_1_3b70190_1461171130994_976754_72354"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448840527091_181349_45395",
+    "name": "Systems Science",
+    "documentation": "Systems science is an interdisciplinary field of science that studies the nature of complex systems in nature, society, and science. It aims to develop interdisciplinary foundations, which are applicable in a variety of areas, such as engineering, biology, medicine and social sciences. (Farlex 2012)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Concept Term Categories and Color Definitions",
+        "refid": "_18_1_3b70190_1461172090476_744631_37297"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448840535533_968310_45413",
+    "name": "Paradymn",
+    "documentation": "A view of the world that may or may not conflict with accepted scientific principles. -- adapted from (Vaughn 1997, 196)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448840535548_933451_45414",
+    "name": "Systems Thinking",
+    "documentation": "    (1) An epistemology which, when applied to human activity is based on four basic ideas: emergence, hierarchy, communication, and control as characteristics of systems. (Checkland 1999)\n\n    (2) A process of discovery and diagnosis \u2013 an inquiry into the governing processes underlying the problems and opportunities. (Senge 1990)\n\n    (3) A discipline for examining wholes, interrelationships, and patterns utilizing a specific set of tools and techniques. (Senge 1990)[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448841611720_61338_45785",
+    "name": "Interaction Principle",
+    "documentation": "The properties, capabilities, and behavior of a system are derived from its parts, from interactions between those parts, and from interactions with other systems. (Hitchins 2009 p. 60) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448841617125_762419_45797",
+    "name": "Holism ",
+    "documentation": "    (1) The theory that parts of a whole are in intimate interconnection, such that they cannot exist or be understood independently of the whole. (von Bertalanffy 1968)\n\n    (2) To take a Holistic view of a situation. (von Bertalanffy 1968)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448841617141_647636_45798",
+    "name": "Equifinality Principle",
+    "documentation": "In open systems, the same final state may be reached from different initial conditions and in different ways (Bertalanffy 1968). This principle can be exploited, especially in systems of purposeful agents. \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448841625740_158349_45825",
+    "name": "Encapsulation Principle",
+    "documentation": "Hide internal parts and their interactions from the external environment. (Klerer 1993; IEEE 1990) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448841625740_296129_45828",
+    "name": "Abstraction",
+    "documentation": "    (1) A view of an object that focuses on the information relevant to a particular purpose and ignores the remainder of the information. (ISO/IEC 2010)\n\n    (2) The process of formulating a view. (ISO/IEC 2010) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Architecture Models",
+        "refid": "_18_1_3b70190_1461170681105_152213_39710"
+      },
+
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448841625740_535289_45826",
+    "name": "Dualism ",
+    "documentation": "    (1) The division of something conceptually into two opposed or contrasted aspects, or the state of being so divided. (Stanford Encyclopedia of Philosophy 2011)\n\n    (2) In the history of thought, the idea that, for some particular domain, there are two fundamental kinds or categories of things or principles. (Stanford Encyclopedia of Philosophy 2011)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448841625740_945312_45827",
+    "name": "Change Principle",
+    "documentation": "Change is necessary for growth and adaptation, and should be accepted and planned for as part of the natural order of things rather than something to be ignored, avoided, or prohibited (Bertalanffy 1968; Hybertson 2009). \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842522733_551524_46479",
+    "name": "Desgn Property",
+    "documentation": "A characteristic obtained during design through allocation of requirements, or estimate, analysis, study, calculation, simulation, etc. (Created for SEBoK)\n\nSources\nThis definition was developed for the SEBoK.\n\nDiscussion\nA design property is associated to a system element, a physical interface, a physical architecture. If the designed element complies with a requirement, the design property should equal the requirement. Otherwise one has to identify the difference or non conformance which treatment could conclude to modify the requirement, or the design, or identify a deviation. \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Industry Reference - Properties",
+        "refid": "_18_1_3b70190_1457911987233_781060_84353"
+      },
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842528974_136931_46496",
+    "name": "Attribute",
+    "documentation": "    An inherent property or characteristic of an entity that can be distinguished quantitatively or qualitatively by human or automated means. (ISO/IEC/IEEE 2007)\n\nSEBoK Discussion\nThere are 8 definitions of attribute in the standards covered by the IEEE Systems and Software Vocabulary Project (sevocab). The included definition is the second, but best seems to capture the intended use of the term in SEBoK. Many uses of the term attribute are specific to database theory and formal modeling. See www.computer.org/sevocab for more detail.\nSEVOCAB contains the following note:\n[An] attribute can refer either to general characteristics such as reliability, maintainability, and usability or to specific features of a software product. ISO 9000 distinguishes two types of attributes: a permanent characteristic existing inherently in something; and an assigned characteristic of a product, process or system (e.g. the price of a product, the owner of a product). The assigned characteristic is not an inherent quality characteristic of that product, process or system. An attribute expresses some characteristic that is generally common to the instances of a class. The name of the attribute is the name of the role that the value class plays in describing the class, which may simply be the name of the value class (as long as using the value class name does not cause ambiguity).\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842528974_91596_46495",
+    "name": "Synthesis ",
+    "documentation": "The combination of parts, elements, or diverse conceptions into a coherent whole; to put together (INCOSE 1998, p. 236)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842537272_399839_46535",
+    "name": "Systems Concept",
+    "documentation": "A mode of description, which explains an aspect of an object in terms of a set of interacting elements. The object can, in principle, be anything: a physical object, a body of work, an idea, or an enterprise. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842537272_441044_46536",
+    "name": "Emergent Property",
+    "documentation": "Property of a system that is meaningful only at higher levels of the organization of a system and results from increased complexity at higher levels -- adapted from (Checkland 1999, p. 78)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Industry Reference - Properties",
+        "refid": "_18_1_3b70190_1457911987233_781060_84353"
+      },
+      {
+        "name": "SEBoK - Element",
+        "refid": "_18_1_3b70190_1452723715344_588719_27344"
+      },
+
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842537287_217720_46537",
+    "name": "System Approach ",
+    "documentation": "A set of principles for applying systems thinking to engineered system contexts. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842537303_376804_46538",
+    "name": "Separation of Concerns Principle",
+    "documentation": "A larger problem is more effectively solved when decomposed into a set of smaller problems or concerns. (Erl 2012; Greer 2008) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545952_364619_46565",
+    "name": "Problem",
+    "documentation": "A concern that has a probability of occurrence equal to one, a consequence of occurrence greater than zero, and a time-frame that is current. A problem is an event that has occurred and has a negative impact to the project. (Conrow 2008)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Property Comments",
+        "refid": "_18_1_3b70190_1448998618665_389136_23483"
+      },
+
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545952_755133_46566",
+    "name": "Regularity",
+    "documentation": "A uniformity or similarity that exists in multiple entities or at multiple times. (von Bertalanffy 1968).\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545952_76880_46567",
+    "name": "Relations Principle",
+    "documentation": "A system is characterized by its relations: the interconnections between the elements. Feedback is a type of relation. The set of relations defines the network of the system. (Odum 1994) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545968_884186_46568",
+    "name": "Parsimony Principle",
+    "documentation": " One should choose the simplest explanation of a phenomenon, the one that requires the fewest assumptions (Cybernetics 2012). This applies not only to choosing a design, but also to operations and requirements. \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545983_107012_46572",
+    "name": "Layer Hierarchy Primciple",
+    "documentation": "The evolution of complex systems is facilitated by their hierarchical structure (including stable intermediate forms) and the understanding of complex systems is facilitated by their hierarchical description. (Pattee 1973; Bertalanffy 1968; Simon 1996) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545983_449130_46571",
+    "name": "Leverage ",
+    "documentation": "Leverage (of a solution) is the degree to which it satisfies the following two criteria (which are, in general, conflicting): (a) number of problem situations to which it applies, and (b) extent to which it provides the complete solution needed for the specific problem situations to which it applies. Leverage is the product of these two criteria. (Hybertson 2009).\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545983_970041_46570",
+    "name": "Modularity ",
+    "documentation": "    (1) Degree to which a system or computer program is composed of discrete components such that a change to one component has minimal impact on other components. (ISO/IEC 2011)\n\n    (2) Software attributes that provide a structure of highly independent components. (ISO/IEC/IEEE 2010)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448842545983_97273_46569",
+    "name": "Network",
+    "documentation": "An arrangement of nodes and interconnecting branches. (ISO/IEC 1993) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448843103907_919605_47196",
+    "name": "Similarity/ Difference Principle",
+    "documentation": "Both the similarities and differences in systems should be recognized and accepted for what they are. (Bertalanffy 1975 p. 75; Hybertson 2009). Avoid forcing one size fits all, and avoid treating everything as entirely unique. \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448843103922_616653_47198",
+    "name": "Stability/ Change Principle",
+    "documentation": "Things change at different rates, and entities or concepts at the stable end of the spectrum can and should be used to provide a guiding context for rapidly changing entities at the volatile end of the spectrum (Hybertson 2009). The study of complex adaptive systems can give guidance to system behavior and design in changing environments (Holland 1992). \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1448980770071_457569_55921",
+    "name": "Solution",
+    "documentation": "A means of solving a problem or dealing with a difficult situation. (American Heritage Dictionary 2009 on-line )\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking OLD",
+        "refid": "_18_1_3b70190_1461174463880_207618_56284"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449236396603_629119_21249",
+    "name": "CI Version",
+    "documentation": "[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Configuration Management",
+        "refid": "_18_1_3b70190_1461170762219_193320_41232"
+      },
+      {
+        "name": "Work Products",
+        "refid": "_18_1_3b70190_1461171588992_742663_32624"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449240614563_977698_22503",
+    "name": "Component",
+    "documentation": "    (1) An entity with discrete structure, such as an assembly or software module, within a system considered at a particular level of analysis. (ISO/IEC 1998)\n\n    (2) One of the parts that make up a system. (IEEE 2008)\n\n    (3) A set of functional services in the software, which, when implemented, represents a well-defined set of functions and is distinguishable by a unique name. (ISO/IEC 2008)\n[3, SEBoK Glossary]\n\nIn systems terms, we use component as the generic term for the level of decomposition at which system elements are no longer considered complex, and for which specialist design disciplines can be used. [3, SEBoK Glossary Discussion]",
+    "appearsIn": [
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1452723988693_792971_28321"
+      },
+      {
+        "name": "System Hierarchy",
+        "refid": "_18_1_3b70190_1461160485031_583593_35861"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449496999032_499472_16531",
+    "name": "System Boundary Principle",
+    "documentation": "[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449496999095_107183_16533",
+    "name": "Abstraction Principle",
+    "documentation": "[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449496999095_998646_16532",
+    "name": "Dualism Principle",
+    "documentation": "Recognize dualities and consider how they are, or can be, harmonized in the context of a larger whole (Hybertson 2009) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449497055383_784701_16663",
+    "name": "Holism Principle",
+    "documentation": "A system should be considered as a single entity, a whole, not just as a set of parts. (Ackoff 1979; Klir 2001) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449497055399_142222_16665",
+    "name": "Leverage Principle",
+    "documentation": "Achieve maximum leverage (Hybertson 2009). Because of the power versus generality tradeoff, leverage can be achieved by a complete solution (power) for a narrow class of problems, or by a partial solution for a broad class of problems (generality). \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449497055399_947498_16664",
+    "name": "Synthesis Principle",
+    "documentation": "[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449497524058_841508_16912",
+    "name": "Regularity Principle",
+    "documentation": "Systems science should find and capture regularities in systems, because those regularities promote systems understanding and facilitate systems practice. (Bertalanffy 1968) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449497568583_638264_16950",
+    "name": "Network  Principle",
+    "documentation": "The network is a fundamental topology for systems that forms the basis of togetherness, connection, and dynamic interaction of parts that yield the behavior of complex systems (Lawson 2010; Martin et al. 2004; Sillitto 2010) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449497568586_957490_16951",
+    "name": "Modularity Principle",
+    "documentation": "Unrelated parts of the system should be separated, and related parts of the system should be grouped together. (Griswold 1995; Wikipedia 2012a) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449497921478_386491_17203",
+    "name": "View Principle",
+    "documentation": "Recognize dualities and consider how they are, or can be, harmonized in the context of a larger whole (Hybertson 2009) \n[3, SEBoK, Principles of Systems Thinking]",
+    "appearsIn": [
+      {
+        "name": "System Thinking - Principles",
+        "refid": "_18_1_3b70190_1461170550821_973_37594"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449503518757_988400_26996",
+    "name": "SEBoK Case Studies",
+    "documentation": "An empirical inquiry that investigates the application of systems engineering practices, principles, and concepts that are based on real-life context. (Created for SEBoK)\n[3, SEBoK Glossary] \n\nCase studies reference cases that have already been published by external sources in the existing literature.\n[3, SEBoK, Case Studies]",
+    "appearsIn": [
+      {
+        "name": "SEBoK Structure",
+        "refid": "_18_1_3b70190_1461169681016_302604_34968"
+      },
+
+      {
+        "name": "SEBoK Structure",
+        "refid": "_18_1_3b70190_1452723977002_358308_28280"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1449503592767_430061_27017",
+    "name": "SEBoK Vignettes",
+    "documentation": "A small illustrative sketch. For the SEBoK, a vignette is a short implementation example written to become part of the SEBoK, where a case study introduction cites an existing, more extensive case study already available in the external literature. (Adapted from Webster's Online Dictionary)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SEBoK Structure",
+        "refid": "_18_1_3b70190_1461169681016_302604_34968"
+      },
+
+      {
+        "name": "SEBoK Structure",
+        "refid": "_18_1_3b70190_1452723977002_358308_28280"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1450295874315_930912_18733",
+    "name": "Structural Complexity",
+    "documentation": "Structural Complexity looks at the system elements and relationships. In particular, structural complexity looks at how many different ways system elements can be combined. Thus, it is related to the potential for the system to adapt to external needs.\n[3, SEBoK Complexity]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452813920943_788343_34798",
+    "name": "Role",
+    "documentation": "A prescribed or expected behavior associated with a particular position or status in a group or organization. \n[13, BusinessDictionary.com]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Organizations",
+        "refid": "_18_1_3b70190_1461172810034_543492_38767"
+      },
+      {
+        "name": "Organizations xx",
+        "refid": "_18_1_3b70190_1452813854742_511018_34765"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452813927351_132081_34800",
+    "name": "Systems Engineer",
+    "documentation": "A systems engineer is \u201ca person who practices systems engineering\u201d and whose systems engineering capabilities and experience include sustained practice, specialization, leadership or authority over systems engineering activities. Systems engineering activities may be conducted by any competent person regardless of job title or professional affiliation. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      },
+      {
+        "name": "Organizations",
+        "refid": "_18_1_3b70190_1461172810034_543492_38767"
+      },
+      {
+        "name": "Organizations xx",
+        "refid": "_18_1_3b70190_1452813854742_511018_34765"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452950359367_133334_42277",
+    "name": "Methodology",
+    "documentation": "Methodology is the systematic, theoretical analysis of the methods applied to a field of study. It comprises the theoretical analysis of the body of methods and principles associated with a branch of knowledge. \n[11, Wikipedia, Methodology]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452950420175_466563_42316",
+    "name": "Theory",
+    "documentation": "Theory is a contemplative and rational type of abstract or generalizing thinking, or the results of such thinking. Depending on the context, the results might for example include generalized explanations of how nature works.\n[11, Wikipedia, Theory]",
+    "appearsIn": [
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      },
+      {
+        "name": "Systems Thinking",
+        "refid": "_18_1_3b70190_1461170543261_337827_37552"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452978153413_909915_43112",
+    "name": "Dynamic Complexity",
+    "documentation": "Dynamic Complexity considers the complexity which can be observed when systems are used to perform particular tasks in an environment. There is a time element to dynamic complexity. The ways in which systems interact in the short term is directly related to system behavior; the longer term effects of using systems in an environment is related to system evolution.\n[3, SEBoK Complexity]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452978165133_721023_43114",
+    "name": "Socio-Political Complexity",
+    "documentation": "Socio-political Complexity considers the effect of individuals or groups of people on complexity. People-related complexity has two aspects. One is related to the perception of a situation as complex or not, due to multiple stakeholder viewpoints within a system context and social or cultural biases which add to the wider influences on a system context. The other involves either the \u201cirrational\u201d behavior of an individual or the swarm behavior of many people behaving individually in ways that make sense.\n[3, SEBoK Complexity]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452978551155_264941_43177",
+    "name": "Disorganized Complexity",
+    "documentation": "Disorganized Complexity is found in a system with many loosely coupled, disorganized and equal elements, which possesses certain average properties such as temperature or pressure. Such a system can be described by \u201c19th Century\u201d statistical analysis techniques.\n[3, SEBoK Complexity]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1452978555986_51837_43180",
+    "name": "Organized Complexity",
+    "documentation": "Organized Complexity can be found in a system with many strongly coupled, organized and different elements which possess certain emergent properties and phenomena such as those exhibited by economic, political or social systems. Such a system can not be described well by traditional analysis techniques.\n[3, SEBoK Complexity]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      },
+      {
+        "name": "Systems Thinking Working",
+        "refid": "_18_1_3b70190_1461174392785_853503_54664"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1453136722109_262963_47090",
+    "name": "Simple Emergence",
+    "documentation": "Simple emergence is generated by the combination of element properties and relationships and occurs in non-complex or \u201cordered\u201d systems.\n[3, SEBoK Emergence]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1453136888558_980300_47156",
+    "name": "Weak Emergence",
+    "documentation": "Weak emergence as expected emergence which is desired (or at least allowed for) in the system structure (2009). However, since weak emergence is a product of a complex system, the actual level of emergence cannot be predicted just from knowledge of the characteristics of the individual system components.\n[3, SEBoK, Emergence]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1453136893215_893983_47159",
+    "name": "Strong Emergence",
+    "documentation": "Strong emergence is used to describe unexpected emergence; that is, emergence not observed until the system is simulated or tested or, more alarmingly, until the system encounters in operation a situation that was not anticipated during design and development.\n[3, SEBoK Emergence]",
+    "appearsIn": [
+      {
+        "name": "Complexity and Emergence",
+        "refid": "_18_1_3b70190_1461169802335_202248_35627"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460410879200_331130_79177",
+    "name": "Concept Definition Process",
+    "documentation": "A set of core technical activities of systems engineering in which the problem space and the needs of the stakeholders are closely examined. This consists of analysis of the problem space and definition of stakeholder needs for required services within it. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460490343931_769942_83784",
+    "name": "System Definition Process",
+    "documentation": "A set of core technical activities of systems engineering, including the activities that are completed primarily in the front-end portion of the system design. This consists of the definition of system requirements, the design of one or more logical and physical architectures, and analysis and selection between possible solution options. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460490396312_577674_83831",
+    "name": "System Realization Process",
+    "documentation": "The activities required to build a system, integrate disparate system elements, and ensure that a system both meets the needs of stakeholders and aligns with the requirements identified in the system definition stage. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460490537002_636912_83878",
+    "name": "Systems Engineering Management Process",
+    "documentation": "Managing the resources and assets allocated to perform systems engineering activities. (Created for SEBoK)\n[3, SEBoK Glossary] ",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460490882488_111908_83894",
+    "name": "Product and Service Life Management Process",
+    "documentation": "Product and service life management deals with the overall life cycle planning and support of a system. The life of a product or service spans a considerably longer period of time than the time required to design and develop the system. Systems engineers need to understand and apply the principles of life management throughout the life cycle of the system.\n[3, SEBoK Product and Service Life Management]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460491018458_950335_83912",
+    "name": "System Deployment and Use Process",
+    "documentation": "A set of core technical activities of systems engineering in ensure that the developed system is operationally acceptable and that the responsibility for the effective, efficient, and safe operations of the system is transferred to the owner. Considerations for deployment and use must be included throughout the system life cycle. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493367953_701626_85153",
+    "name": "Planning Process",
+    "documentation": "Planning is an important aspect of systems engineering management (SEM). Systems engineering (SE) planning is performed concurrently and collaboratively with project planning. It involves developing and integrating technical plans to achieve the technical project objectives within the resource constraints and risk thresholds. \n[3, SEBoK, Planning]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493398455_59970_85176",
+    "name": "Assessment and Control Process",
+    "documentation": "The purpose of systems engineering assessment and control (SEAC) is to provide adequate visibility into the project\u2019s actual technical progress and risks with respect to the technical plans (i.e., systems engineering management plan (SEMP) or systems engineering plan (SEP) and subordinate plans).\n[3, SEBoK, Assessment and Control]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493405711_15517_85188",
+    "name": "Risk Management Process",
+    "documentation": "    (1) An organized process for identifying and handling risk factors. (ISO/IEC/IEEE 2010)\n\n    (2) an organized means of identifying and measuring risk (risk assessment) and developing, selecting, and managing options (risk analysis) for resolving (risk handling) these risks. (ISO/IEC/IEEE 2010)\n\n    (3) organized, analytic process to identify what might cause harm or loss (identify risks); to assess and quantify the identified risks; and to develop and, if needed, implement an appropriate approach to prevent or handle causes of risk that could result in significant harm or loss. (ISO/IEC/IEEE 2010) \n\n    (4) coordinated activities to direct and control an organization with regard to risk. (ISO/IEC 2008) \n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493405726_894657_85189",
+    "name": "Measurement Process",
+    "documentation": "SE measurement provides information relating to the products developed, services provided, and processes implemented to support effective management of the processes and to objectively evaluate product or service quality.\n[3, SEBoK, Measurement]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493512483_773677_85286",
+    "name": "Decision Management Process",
+    "documentation": "The purpose of the decision management process is:\n    \u201c\u2026to provide a structured, analytical framework for objectively identifying, characterizing and evaluating a set of alternatives for a decision at any point in the life cycle and select the most beneficial course of action.\u201d(ISO/IEC/IEEE 15288)\n[3, SEBoK, Decision Management]\n\nAnalysis of possible decisions using a formal evaluation process that assesses identified alternatives against established criteria. (Created for SEBoK)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493638860_3004_85400",
+    "name": "Information Maageent Process",
+    "documentation": "The information management (IM) process is a set of activities associated with the collection and management of information from one or more sources and the distribution of that information to one or more audiences.\n[3, SEBoK, Information Management]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493644916_196285_85414",
+    "name": "Quality Management Process",
+    "documentation": "Whether a systems engineer delivers a product, a service, or an enterprise, the deliverable should meet the needs of the customer and be fit for use. Such a deliverable is said to be of high quality. The process to assure high quality is called quality management. \n[3, SEBoK, Quality Management]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493644932_978390_85415",
+    "name": "Update, Upgrades and Modernization Process",
+    "documentation": "Modernization and upgrades involve changing the product or service to include new functions and interfaces, improve system performance, and/or improve system supportability. \n[3, SEBoK, Capability Updates, Upgrades, and Modernization]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493661145_121283_85448",
+    "name": "Service Life Extension Process",
+    "documentation": "Product and service life extension involves continued use of a product and/or service beyond its original design life. Product and service life extension involves assessing the risks and the life cycle cost (LCC) of continuing the use of the product or service versus the cost of a replacement system.\n[3, SEBoK Service Life Extension]\n\nModification(s) to fielded systems undertaken to extend the life of the system beyond what was previously planned. (ExpertGlossary)\n[3, SEBoK Glossary]\n",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1460493661161_185159_85449",
+    "name": "Logistics Process",
+    "documentation": "The science of planning and implementing the acquisition and use of the resources necessary to sustain the operation of a system. (Cooke 1993)\n[3, SEBoK Glossary]",
+    "appearsIn": [
+      {
+        "name": "SE Processes",
+        "refid": "_18_1_3b70190_1460414244944_221573_80446"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461103978285_559951_30353",
+    "name": "Competency",
+    "documentation": "An observable, measurable set of skills, knowledge, abilities, behaviors, and other characteristics an individual needs to successfully perform work roles or occupational functions. Competencies are typically required at different levels of proficiency depending on the specific work role or occupational function. Competencies can help ensure individual and team performance aligns with the organization's mission and strategic direction. (OPM 2014)\n\n    a measure of an individual\u2019s ability in terms of their knowledge, skills, and behavior to perform a given role (Holt and Perry, 2011)\n\n[3, SEBoK]",
+    "appearsIn": [
+      {
+        "name": "Core SEBoK Concepts",
+        "refid": "_18_1_3b70190_1461072592807_927839_93477"
+      },
+
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461156578012_490027_34104",
+    "name": "KSAA",
+    "documentation": "knowledge, skills, abilities, and attitudes \n[3, SEBoK, Roles and Competencies]",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461156893607_368883_34263",
+    "name": "Knowledge",
+    "documentation": "-  acquaintance with facts, truths, or principles, as from study or investigation; general erudition: knowledge of many things.\n-  acquaintance or familiarity gained by sight, experience, or report: a knowledge of human nature.\n-  the fact or state of knowing; the perception of fact or truth; clear and certain mental apprehension.\n[3, SEBoK Glossary]\n\n",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461414263950_802151_57981",
+    "name": "Skill",
+    "documentation": "to make a difference\n[11, Merriam-Webster]\n",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461414442806_877302_58169",
+    "name": "Ability",
+    "documentation": ": the quality or state of being able ; especially : physical, mental, or legal power to perform \n[11, Merriam-Webster]",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461414445714_69556_58217",
+    "name": "Attitude",
+    "documentation": ": a position assumed for a specific purpose \n[11, Merriam-Webster]\n",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461415111038_842580_58382",
+    "name": "Task",
+    "documentation": ": a usually assigned piece of work often to be finished within a certain time.\n[11, Merriam-Webster]\n",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461419470796_591193_59609",
+    "name": "SE Competency Model",
+    "documentation": "SE competency models generally agree that systems thinking, taking a holistic view of the system that includes the full life cycle, and specific knowledge of both technical and managerial SE methods are required to be a fully capable systems engineer. \n[3, SEBoK, Roles and Competencies]",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461420290203_178776_59734",
+    "name": "NASA SE Competency Model",
+    "documentation": "The US National Aeronautics and Space Administration (NASA) APPEL website provides a competency model that covers both project engineering and systems engineering (APPEL 2009). \n[3, SEBoK, Roles and Competencies]",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461420493949_739377_59786",
+    "name": "INCOSE SE Competency Model",
+    "documentation": "The INCOSE model was developed by a working group in the United Kingdom (Cowper et al. 2005). As Table 2 shows, the INCOSE framework is divided into three theme areas - systems thinking, holistic life cycle view, and systems management - with a number of competencies in each. The INCOSE UK model was later adopted by the broader INCOSE organization (INCOSE 2010).  \n[3, SEBoK, Roles and Competencies]",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  },
+  {
+    "code": "_18_1_3b70190_1461420498539_559023_59795",
+    "name": "United States DoD Engineering Competency Model",
+    "documentation": "The model for US Department of Defense (DoD) acquisition engineering professionals (ENG) includes 41 competency areas.Each is grouped according to a \u201cUnit of Competence\u201d. For this model, the four top-level groupings are analytical, technical management, professional, and business acumen.  \n[3, SEBoK, Roles and Competencies]",
+    "appearsIn": [
+      {
+        "name": "Roles and Competencies",
+        "refid": "_18_1_3b70190_1461103891452_937347_30303"
+      }
+    ]
+  }
+]

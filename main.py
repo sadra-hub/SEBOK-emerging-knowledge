@@ -3,7 +3,7 @@ import pdfplumber
 from collections import defaultdict
 
 # Load the JSON file
-with open("data.json", "r", encoding="utf-8") as file:
+with open("data/data.json", "r", encoding="utf-8") as file:
     json_data = json.load(file)
 
 # Load the sample DF file for processing, this will change to a batch of 100 files
