@@ -34,9 +34,9 @@ This project analyzes research articles to identify emerging topics in Systems E
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/systems-engineering-research-analysis.git
+git clone https://github.com/sadra-hub/SEBOK-emerging-knowledge.git
 cd systems-engineering-research-analysis
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ## Usage
