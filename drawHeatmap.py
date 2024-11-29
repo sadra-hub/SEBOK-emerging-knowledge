@@ -10,3 +10,18 @@ def get_shapes(rect_refid_list, diagram_xml_file):
     refId_coordinates = []
     
     return refId_coordinates
+
+def get_center(refId_coordinates):
+    # receive a list of refId_coordinates and use 4 points of each refid to calclute
+    # x and y center
+    x_center = 0
+    y_center = 0
+    return x_center, y_center
+
+
+# Function to get the score for each square (to be defined by you later)
+def get_score(x, y, refid_list):
+    # Placeholder for your actual scoring function
+    return x + y
+
+
