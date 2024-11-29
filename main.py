@@ -6,7 +6,7 @@ from collections import defaultdict
 with open("data.json", "r", encoding="utf-8") as file:
     json_data = json.load(file)
 
-# Load the PDF file
+# Load the sample DF file for processing, this will change to a batch of 100 files
 pdf_path = "document.pdf"
 
 # Initialize dictionaries for scores and name appearances
