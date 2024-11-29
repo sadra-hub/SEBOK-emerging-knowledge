@@ -1,3 +1,6 @@
+from PIL import Image
+import xml.etree.ElementTree as ET
+
 def get_shapes(rect_refid_list, diagram_xml_file):
     # receive rect_refid_list which contains a list of refiD for shapes of rectangles
     # First it identifies the x and y for the rectangle shapes in the XML file
@@ -59,3 +62,73 @@ def get_color(score, min_score, max_score, transparency=255):
 
     # Return the color with the specified transparency
     return (red, green, blue, transparency)
+
+
+# Load the image
+image_path = "diagram.jpg"  # Replace with your image path
+image = Image.open(image_path)
+
+# Get the image dimensions
+width, height = image.size
+
+# Define the square size
+square_size = 10
+
+# Create a list to store the scores
+scores = []
+
+# Loop over the image and calculate the scores for each square
+for y in range(0, height, square_size):
+    for x in range(0, width, square_size):
+        # Ensure that the square doesn't go out of bounds
+        if x + square_size <= width and y + square_size <= height:
+            score = get_score(x, y)
+            scores.append(
+                (x, y, score)
+            )  # Store the score with its top-left corner position
+
+# Find the minimum and maximum scores to normalize
+min_score = min(score for _, _, score in scores)
+max_score = max(score for _, _, score in scores)
+
+# Define a color palette (e.g., from red to green)
+color_palette = [(255, 0, 0), (0, 255, 0)]  # Red to Green
+
+# Convert the original image to RGBA mode to support transparency
+image = image.convert("RGBA")
+
+
+# Loop through each square and assign color with transparency to the corresponding pixels
+for x, y, score in scores:
+    # Get the color for the current square
+    transparency = 180  # Set desired transparency level (0-255)
+    color = get_color(score, min_score, max_score, transparency)
+
+    # Set the color for the 10x10 block starting at (x, y)
+    for dy in range(square_size):
+        for dx in range(square_size):
+            if x + dx < width and y + dy < height:  # Ensure we don't go out of bounds
+                # Get the current pixel color from the original image
+                original_pixel = image.getpixel((x + dx, y + dy))
+
+                # Blend the original image pixel with the color using alpha transparency
+                r1, g1, b1, a1 = original_pixel
+                r2, g2, b2, a2 = color
+
+                # Apply alpha blending (simple linear interpolation based on transparency)
+                alpha = a2 / 255.0  # Transparency as a float between 0 and 1
+                r = int(r1 * (1 - alpha) + r2 * alpha)
+                g = int(g1 * (1 - alpha) + g2 * alpha)
+                b = int(b1 * (1 - alpha) + b2 * alpha)
+                a = int(a1 * (1 - alpha) + a2 * alpha)
+
+                # Set the new blended color with transparency
+                image.putpixel((x + dx, y + dy), (r, g, b, a))
+
+# Save the colored image with transparency to a new file
+image.save(
+    "colored_image_with_transparency_overlay.png"
+)  # Save as PNG to preserve transparency
+
+# Optionally, show the image
+image.show()
