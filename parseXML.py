@@ -3,9 +3,17 @@ import xml.etree.ElementTree as ET
 import json
 
 # Define input and output paths
-filenames_list_path = "file_list.txt"  # File containing filenames
-folder_path = "SECM/SECM Version 09-15-2016_files/xml"  # Folder containing XML files
-output_json_path = "output.json"  # Path to save the JSON output
+# Add a script to fetch only the file names from concept_refid_list.txt
+
+filenames_list_path = "docs/concept_refid_list.txt"  # File containing filenames 
+
+# Folder containing XML files (you can download this at 
+# https://www.omgwiki.org/OMGSysML/doku.php?id=sysml-roadmap:systems_engineering_concept_model_workgroup)
+
+folder_path = "SECM/SECM Version 09-15-2016_files/xml"  
+
+
+output_json_path = "data.json"  # Path to save the JSON output
 
 # Initialize a list to store the extracted data
 output_data = []
