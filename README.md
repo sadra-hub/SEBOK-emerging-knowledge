@@ -54,5 +54,8 @@ python main.py --input research_articles.xml
 - Open issues for bug reports or feature requests
 - Submit pull requests with improvements
 
-## License
-[Specify License]
+## Acknowledgements 
+[OMG - Systems Engineering Concept Model (SECM) Working Group](https://www.omgwiki.org/OMGSysML/doku.php?id=sysml-roadmap:systems_engineering_concept_model_workgroup)
+
+[SEBoK - Part 8: Emerging Knowledge](https://sebokwiki.org/wiki/Emerging_Knowledge)
+
