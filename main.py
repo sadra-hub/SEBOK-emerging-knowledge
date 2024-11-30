@@ -1,46 +1,50 @@
-import json
-import pdfplumber
-from collections import defaultdict
+import diagrams.parseDiagram as parseDiagram
+import articles.parseArticle as parseArticle
 
-# Load the JSON file
-with open("data/data.json", "r", encoding="utf-8") as file:
-    json_data = json.load(file)
+# Load the image
+image_path = "data/SECM/SECM Version 09-15-2016_files/_18_1_3b70190_1461072592807_927839_93477.jpg"
 
-# Load the sample DF file for processing, this will change to a batch of 100 files
-pdf_path = "document.pdf"
+# Load the XML diagram
+diagram_xml_file = "data/SECM/SECM Version 09-15-2016_files/xml/_18_1_3b70190_1461072592807_927839_93477.xml"
 
-# Initialize dictionaries for scores and name appearances
-refid_scores = defaultdict(int)
-name_counts = defaultdict(int)
+# Load the article
+pdf_directory = "articles/documents"  # Directory containing PDF files
 
-# Extract text from the PDF
-with pdfplumber.open(pdf_path) as pdf:
-    pdf_text = " ".join(page.extract_text() for page in pdf.pages)
+# Load the data
+json_path = "data/data.json"  # Path to JSON file
 
-# Search for names and update scores for their corresponding refIDs
-for item in json_data:
-    name = item["name"]
-    appears_in = item["appearsIn"]
+# Define the square size (resolution of the heatmap)
+square_size = 5
 
-    # Count occurrences of the name in the PDF text
-    name_occurrences = pdf_text.count(name)
-    if name_occurrences > 0:
-        # Record the name count
-        name_counts[name] += name_occurrences
+point_interval = 5
 
-        # Increment scores for all refIDs in appearsIn based on occurrences
-        for ref in appears_in:
-            refid_scores[ref["refid"]] += name_occurrences
+triangle_delta = 10
 
-# Sort names and refIDs by counts in descending order
-sorted_names = sorted(name_counts.items(), key=lambda x: x[1], reverse=True)
-sorted_refids = sorted(refid_scores.items(), key=lambda x: x[1], reverse=True)
+gradient_width = 30
 
-# Output results
-print("Matched Names and Their Counts:")
-for name, count in sorted_names:
-    print(f"{name}: {count}")
+# The percentage of each rectangle to be covered [0 - 0.99]
+rectangle_coverage = 0.9
 
-print("\nRefID Scores:")
-for refid, score in sorted_refids:
-    print(f"{refid}: {score}")
+transparency = 120
+
+# Process the PDFs and get the sorted results which are refid of rectangles in XML
+rect_refid_list, sorted_concept_refid_score = parseArticle.processPDF(pdf_directory, json_path)
+
+# Process the diagram according to result of processing PDF(s)
+image = parseDiagram.processDiagram(
+    image_path, 
+    diagram_xml_file, 
+    rect_refid_list, 
+    sorted_concept_refid_score,
+    square_size, 
+    point_interval,
+    triangle_delta,
+    gradient_width,
+    rectangle_coverage,
+    transparency
+)
+
+# Save the colored image with transparency to a new file
+image.save(
+    "diagrams/images/outputDiagram.png"
+)  # Save as PNG to preserve transparency
