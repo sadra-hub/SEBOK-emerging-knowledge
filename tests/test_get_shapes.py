@@ -1,77 +1,27 @@
-import xml.etree.ElementTree as ET
+from diagrams.parseDiagram import get_shapes
 
+# Path to your existing test_diagram.xml
+TEST_DIAGRAM_PATH = "tests/test_diagram.xml"
 
-def get_shapes(rect_refid_list, diagram_xml_file):
-    """
-    Extracts the x, y coordinates of rectangle shapes and any polygons connecting them
-    from the given XML file.
-    
-    :param rect_refid_list: List of refid values for the rectangle shapes.
-    :param diagram_xml_file: Path to the XML file containing diagram data.
-    :return: A dictionary where keys are refids, and values are lists of 4 (x, y) coordinate tuples
-             for rectangles and connecting polygons.
-    """
-    # Parse the XML file
-    tree = ET.parse(diagram_xml_file)
-    root = tree.getroot()
-    
-    # Namespace check (if XML uses namespaces, update as needed)
-    namespace = ''
-    if root.tag.startswith('{'):
-        namespace = root.tag.split('}')[0] + '}'
+# Test cases
+def test_get_shapes_with_valid_data():
+    rect_refid_list = ["rect1", "rect2"]  # Update these IDs to match the actual `refid` in your XML
+    expected_output = {
+        "rect1": [(100, 200), (150, 200), (150, 250), (100, 250)],
+        "rect2": [(300, 400), (350, 400), (350, 450), (300, 450)],
+        # Add additional expected outputs as necessary
+    }
 
-    # Navigate to the "map" element within "diagram" and "magicdraw"
-    magicdraw = root.find(f"{namespace}magicdraw")
-    if magicdraw is None:
-        raise ValueError("Invalid XML structure: 'magicdraw' tag not found.")
-    
-    diagram = magicdraw.find(f"{namespace}diagram")
-    if diagram is None:
-        raise ValueError("Invalid XML structure: 'diagram' tag not found.")
-    
-    map_element = diagram.find(f"{namespace}map")
-    if map_element is None:
-        raise ValueError("Invalid XML structure: 'map' tag not found.")
-    
-    # Dictionary to store coordinates of rectangles and polygons
-    refId_coordinates = {}
+    result = get_shapes(rect_refid_list, TEST_DIAGRAM_PATH)
+    assert result == expected_output
 
-    # Extract rectangles and polygons from "area" elements
-    areas = map_element.findall(f"{namespace}area")
-    
-    # Step 1: Identify rectangle shapes and store their coordinates
-    for area in areas:
-        refid = area.get("refid")
-        shape = area.get("shape")
-        
-        if refid in rect_refid_list and shape == "rect":
-            points = [
-                (int(point.get("x")), int(point.get("y")))
-                for point in area.findall(f"{namespace}point")
-            ]
-            refId_coordinates[refid] = points
+def test_get_shapes_with_missing_shapes():
+    rect_refid_list = ["nonexistent_refid"]  # ID that doesn't exist in the XML
+    result = get_shapes(rect_refid_list, TEST_DIAGRAM_PATH)
+    assert result == {}  # Should return an empty dictionary
 
-    # Step 2: Check for polygons that connect rectangles
-    for area in areas:
-        refid = area.get("refid")
-        shape = area.get("shape")
-        
-        if shape == "poly":
-            points = [
-                (int(point.get("x")), int(point.get("y")))
-                for point in area.findall(f"{namespace}point")
-            ]
-            # Check if this polygon connects rectangles in rect_refid_list
-            connected_rects = [
-                rect_refid for rect_refid in rect_refid_list if rect_refid in refId_coordinates
-            ]
-            if len(connected_rects) > 1:  # If more than two rectangles are connected
-                refId_coordinates[refid] = points
-
-    return refId_coordinates
-
-
-# Function to get the score for each square (to be defined by you later)
-def get_score(x, y, refid_list):
-    # Placeholder for your actual scoring function
-    return x + y
+def test_get_shapes_with_only_polygons():
+    rect_refid_list = []  # No rectangles provided
+    result = get_shapes(rect_refid_list, TEST_DIAGRAM_PATH)
+    # Update expected_output if polygons should be returned without rectangles
+    assert result == {}
