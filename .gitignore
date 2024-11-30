@@ -1,2 +1,13 @@
 .DS_Store
+.vscode
+.pytest_cache
+pytest.ini
 data/SECM
+articles/documents
+articles/__pycache__
+diagrams/images
+diagrams/__pycache__
+tests/images
+tests/documents
+tests/__pycache__
+tests/data
